@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="sublime" description="open file in sublime" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Sublime Text.app" />
+      <option name="PARAMETERS" value="-n $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
+    </exec>
+  </tool>
+  <tool name="vs" description="open fileins vs" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Visual Studio Code.app" />
+      <option name="PARAMETERS" value="-n $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
+    </exec>
+  </tool>
+</toolSet>

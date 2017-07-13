@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="MySQL" injector-id="xml">
+      <display-name>select</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd"))]]></place>
+    </injection>
+  </component>
+</application>

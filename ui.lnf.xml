@@ -1,0 +1,22 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="FONT_FACE" value=".SF NS Text" />
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_SIZE" value="11" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="10" />
+    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+  </component>
+</application>

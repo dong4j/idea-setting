@@ -1,0 +1,11 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CodotaSearchCrossRefAction">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="CodotaSearchEverywhereAction">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+</keymap>
