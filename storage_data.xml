@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customize Context" />
       <item value="event" />
       <item value="当前的" />
       <item value="child Node" />
@@ -50,7 +51,6 @@
       <item value="回滚" />
       <item value="失败" />
       <item value="创建" />
-      <item value="DUIBAI ORDER STATUS" />
     </histories>
   </component>
 </application>
