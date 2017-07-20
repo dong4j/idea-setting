@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incorrect" />
+      <item value="Truncated" />
       <item value="exchange Reason" />
       <item value="indices" />
       <item value="statistics" />
@@ -49,8 +51,6 @@
       <item value="flat Map" />
       <item value="auth Envelope" />
       <item value="authenticate" />
-      <item value="nested" />
-      <item value="candidate" />
     </histories>
   </component>
 </application>
