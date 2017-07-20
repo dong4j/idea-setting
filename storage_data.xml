@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert" />
+      <item value="转换" />
+      <item value="converto" />
       <item value="Grade Type Enum" />
       <item value="duration" />
       <item value="customize Context" />
@@ -48,9 +51,6 @@
       <item value="qualifies" />
       <item value="dependency" />
       <item value="radix" />
-      <item value="roadix" />
-      <item value="处理消息" />
-      <item value="回滚" />
     </histories>
   </component>
 </application>
