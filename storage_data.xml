@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistics" />
+      <item value="统计" />
       <item value="convert" />
       <item value="转换" />
       <item value="converto" />
@@ -49,8 +51,6 @@
       <item value="candidate" />
       <item value="service" />
       <item value="qualifies" />
-      <item value="dependency" />
-      <item value="radix" />
     </histories>
   </component>
 </application>
