@@ -1,6 +1,8 @@
 <application>
   <component name="TranslationSettings">
-    <option name="disableApiKeyNotification" value="true" />
+    <option name="appId" value="5ae414513d5881f4" />
+    <option name="langFrom" value="AUTO" />
+    <option name="langTo" value="AUTO" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Roboto Mono Light for Powerline" />

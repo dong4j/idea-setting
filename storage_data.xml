@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Grade Type Enum" />
       <item value="duration" />
       <item value="customize Context" />
       <item value="event" />
@@ -50,7 +51,6 @@
       <item value="roadix" />
       <item value="处理消息" />
       <item value="回滚" />
-      <item value="失败" />
     </histories>
   </component>
 </application>
