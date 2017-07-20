@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indices" />
       <item value="statistics" />
       <item value="统计" />
       <item value="convert" />
@@ -50,7 +51,6 @@
       <item value="nested" />
       <item value="candidate" />
       <item value="service" />
-      <item value="qualifies" />
     </histories>
   </component>
 </application>
