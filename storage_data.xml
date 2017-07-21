@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assigned" />
+      <item value="155" />
       <item value="subscribe" />
       <item value="current Page" />
       <item value="milliseconds" />
@@ -49,8 +51,6 @@
       <item value="elapsed" />
       <item value="invocation" />
       <item value="Tracing Collector" />
-      <item value="Binary Annotation" />
-      <item value="Sample" />
     </histories>
   </component>
 </application>
