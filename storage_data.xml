@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR FOR DIVISION BY ZERO" />
+      <item value="deduct Grade" />
       <item value="incorrect" />
       <item value="Truncated" />
       <item value="exchange Reason" />
@@ -49,8 +51,6 @@
       <item value="compliance" />
       <item value="deduct" />
       <item value="flat Map" />
-      <item value="auth Envelope" />
-      <item value="authenticate" />
     </histories>
   </component>
 </application>
