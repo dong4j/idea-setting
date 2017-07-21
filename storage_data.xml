@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
+      <item value="millis" />
       <item value="Actual" />
       <item value="Expected" />
       <item value="ERROR FOR DIVISION BY ZERO" />
@@ -49,8 +51,6 @@
       <item value="Sample" />
       <item value="is Sampling" />
       <item value="Sampling" />
-      <item value="except" />
-      <item value="compliance" />
     </histories>
   </component>
 </application>
