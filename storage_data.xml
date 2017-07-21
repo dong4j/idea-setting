@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actual" />
+      <item value="Expected" />
       <item value="ERROR FOR DIVISION BY ZERO" />
       <item value="deduct Grade" />
       <item value="incorrect" />
@@ -49,8 +51,6 @@
       <item value="Sampling" />
       <item value="except" />
       <item value="compliance" />
-      <item value="deduct" />
-      <item value="flat Map" />
     </histories>
   </component>
 </application>
