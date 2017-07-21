@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Page" />
       <item value="milliseconds" />
       <item value="millis" />
       <item value="Actual" />
@@ -50,7 +51,6 @@
       <item value="Binary Annotation" />
       <item value="Sample" />
       <item value="is Sampling" />
-      <item value="Sampling" />
     </histories>
   </component>
 </application>
