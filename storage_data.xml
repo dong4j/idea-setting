@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Example" />
+      <item value="模糊搜索条件" />
+      <item value="模糊搜索" />
       <item value="assigned" />
       <item value="155" />
       <item value="subscribe" />
@@ -48,9 +51,6 @@
       <item value="peek" />
       <item value="span" />
       <item value="is Sample" />
-      <item value="elapsed" />
-      <item value="invocation" />
-      <item value="Tracing Collector" />
     </histories>
   </component>
 </application>
