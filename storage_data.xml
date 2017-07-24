@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="carrier" />
+      <item value="承运人" />
+      <item value="Car Free Carrier" />
+      <item value="1为非无车承运人" />
       <item value="set Receive Time" />
       <item value="update Wait Waybill Cars Deny" />
       <item value="get Detail By Waybill Id And Car Info Id" />
@@ -47,10 +51,6 @@
       <item value="information" />
       <item value="Transfering" />
       <item value="Transfer" />
-      <item value="pop" />
-      <item value="pop Span" />
-      <item value="Decode Handler" />
-      <item value="Delivering" />
     </histories>
   </component>
 </application>
