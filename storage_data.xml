@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Receive Time" />
+      <item value="update Wait Waybill Cars Deny" />
+      <item value="get Detail By Waybill Id And Car Info Id" />
       <item value="Carrier" />
       <item value="Car Free Carrier Company" />
       <item value="Example" />
@@ -48,9 +51,6 @@
       <item value="pop Span" />
       <item value="Decode Handler" />
       <item value="Delivering" />
-      <item value="add Annotation" />
-      <item value="Endpoint" />
-      <item value="peek" />
     </histories>
   </component>
 </application>
