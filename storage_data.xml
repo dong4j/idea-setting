@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declared" />
+      <item value="convert" />
+      <item value="转换" />
       <item value="carrier" />
       <item value="承运人" />
       <item value="Car Free Carrier" />
@@ -29,8 +32,6 @@
       <item value="indices" />
       <item value="statistics" />
       <item value="统计" />
-      <item value="convert" />
-      <item value="转换" />
       <item value="converto" />
       <item value="Grade Type Enum" />
       <item value="duration" />
@@ -50,7 +51,6 @@
       <item value="attendance" />
       <item value="information" />
       <item value="Transfering" />
-      <item value="Transfer" />
     </histories>
   </component>
 </application>
