@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Carrier" />
+      <item value="Car Free Carrier Company" />
       <item value="Example" />
       <item value="模糊搜索条件" />
       <item value="模糊搜索" />
@@ -49,8 +51,6 @@
       <item value="add Annotation" />
       <item value="Endpoint" />
       <item value="peek" />
-      <item value="span" />
-      <item value="is Sample" />
     </histories>
   </component>
 </application>
