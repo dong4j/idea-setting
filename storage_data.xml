@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Const" />
       <item value="declared" />
       <item value="convert" />
       <item value="转换" />
@@ -50,7 +51,6 @@
       <item value="LPAREN" />
       <item value="attendance" />
       <item value="information" />
-      <item value="Transfering" />
     </histories>
   </component>
 </application>
