@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SOLID FOREGROUND" />
+      <item value="cell" />
+      <item value="use Merged Cells" />
+      <item value="column" />
       <item value="date Cell" />
       <item value="RESULT SUCC" />
       <item value="carfreecarriercompany" />
@@ -47,10 +51,6 @@
       <item value="operation" />
       <item value="操作" />
       <item value="Log Node Opter" />
-      <item value="exception" />
-      <item value="Container Request Filter" />
-      <item value="process" />
-      <item value="qualified" />
     </histories>
   </component>
 </application>
