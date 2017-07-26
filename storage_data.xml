@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="date Cell" />
       <item value="RESULT SUCC" />
       <item value="carfreecarriercompany" />
       <item value="Const" />
@@ -50,7 +51,6 @@
       <item value="Container Request Filter" />
       <item value="process" />
       <item value="qualified" />
-      <item value="LPAREN" />
     </histories>
   </component>
 </application>
