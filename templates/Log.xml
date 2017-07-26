@@ -1,0 +1,7 @@
+<templateSet group="Log">
+  <template name="psfl" value="private static final Logger LOGGER = LoggerFactory.getLogger($END$);" description="slf4j" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
