@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="carfreecarriercompany" />
       <item value="Const" />
       <item value="declared" />
       <item value="convert" />
@@ -50,7 +51,6 @@
       <item value="qualified" />
       <item value="LPAREN" />
       <item value="attendance" />
-      <item value="information" />
     </histories>
   </component>
 </application>
