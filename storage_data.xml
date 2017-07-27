@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Query Person Credit" />
+      <item value="Query Enterprise Credit" />
+      <item value="Query Vehicle Credit" />
       <item value="row" />
       <item value="auto Size Column" />
       <item value="cell" />
@@ -48,9 +51,6 @@
       <item value="incorrect" />
       <item value="Truncated" />
       <item value="exchange Reason" />
-      <item value="indices" />
-      <item value="statistics" />
-      <item value="统计" />
     </histories>
   </component>
 </application>
