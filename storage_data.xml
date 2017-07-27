@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content" />
+      <item value="relation" />
+      <item value="关系" />
       <item value="Class Cast Exception" />
       <item value="postfix" />
       <item value="后缀" />
@@ -48,9 +51,6 @@
       <item value="统计" />
       <item value="converto" />
       <item value="Grade Type Enum" />
-      <item value="duration" />
-      <item value="customize Context" />
-      <item value="event" />
     </histories>
   </component>
 </application>
