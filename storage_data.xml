@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="信用查询" />
+      <item value="查询" />
+      <item value="信用" />
       <item value="consent Chk" />
       <item value="captcha Chk" />
       <item value="vehicle Number" />
@@ -48,9 +51,6 @@
       <item value="155" />
       <item value="subscribe" />
       <item value="current Page" />
-      <item value="milliseconds" />
-      <item value="millis" />
-      <item value="Actual" />
     </histories>
   </component>
 </application>
