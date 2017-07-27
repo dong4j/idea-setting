@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Class Cast Exception" />
       <item value="postfix" />
       <item value="后缀" />
       <item value="后缀哦" />
@@ -50,7 +51,6 @@
       <item value="duration" />
       <item value="customize Context" />
       <item value="event" />
-      <item value="当前的" />
     </histories>
   </component>
 </application>
