@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="postfix" />
+      <item value="后缀" />
+      <item value="后缀哦" />
+      <item value="is Annotation Present" />
+      <item value="convert" />
+      <item value="转换" />
+      <item value="combo" />
       <item value="SOLID FOREGROUND" />
       <item value="cell" />
       <item value="use Merged Cells" />
@@ -10,8 +17,6 @@
       <item value="carfreecarriercompany" />
       <item value="Const" />
       <item value="declared" />
-      <item value="convert" />
-      <item value="转换" />
       <item value="carrier" />
       <item value="承运人" />
       <item value="Car Free Carrier" />
@@ -46,11 +51,6 @@
       <item value="customize Context" />
       <item value="event" />
       <item value="当前的" />
-      <item value="child Node" />
-      <item value="ENCODER PATTERN" />
-      <item value="operation" />
-      <item value="操作" />
-      <item value="Log Node Opter" />
     </histories>
   </component>
 </application>
