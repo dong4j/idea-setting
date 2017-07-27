@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="captcha" />
       <item value="Query Person Credit" />
       <item value="Query Enterprise Credit" />
       <item value="Query Vehicle Credit" />
@@ -50,7 +51,6 @@
       <item value="deduct Grade" />
       <item value="incorrect" />
       <item value="Truncated" />
-      <item value="exchange Reason" />
     </histories>
   </component>
 </application>
