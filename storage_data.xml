@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="captcha" />
+      <item value="consent Chk" />
+      <item value="captcha Chk" />
+      <item value="vehicle Number" />
       <item value="license Plate Type Code" />
+      <item value="road Transport Certificate No" />
+      <item value="captcha" />
       <item value="Query Person Credit" />
       <item value="Query Enterprise Credit" />
       <item value="Query Vehicle Credit" />
@@ -47,10 +51,6 @@
       <item value="milliseconds" />
       <item value="millis" />
       <item value="Actual" />
-      <item value="Expected" />
-      <item value="ERROR FOR DIVISION BY ZERO" />
-      <item value="deduct Grade" />
-      <item value="incorrect" />
     </histories>
   </component>
 </application>
