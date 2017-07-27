@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="row" />
+      <item value="auto Size Column" />
+      <item value="cell" />
       <item value="content" />
       <item value="relation" />
       <item value="关系" />
@@ -13,7 +16,6 @@
       <item value="转换" />
       <item value="combo" />
       <item value="SOLID FOREGROUND" />
-      <item value="cell" />
       <item value="use Merged Cells" />
       <item value="column" />
       <item value="date Cell" />
@@ -49,8 +51,6 @@
       <item value="indices" />
       <item value="statistics" />
       <item value="统计" />
-      <item value="converto" />
-      <item value="Grade Type Enum" />
     </histories>
   </component>
 </application>
