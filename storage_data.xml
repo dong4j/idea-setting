@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="captcha" />
+      <item value="license Plate Type Code" />
       <item value="Query Person Credit" />
       <item value="Query Enterprise Credit" />
       <item value="Query Vehicle Credit" />
@@ -50,7 +51,6 @@
       <item value="ERROR FOR DIVISION BY ZERO" />
       <item value="deduct Grade" />
       <item value="incorrect" />
-      <item value="Truncated" />
     </histories>
   </component>
 </application>
