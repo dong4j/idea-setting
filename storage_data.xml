@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accompanying" />
+      <item value="statement" />
       <item value="format" />
       <item value="格式" />
       <item value="Malformed URL Exception" />
@@ -49,8 +51,6 @@
       <item value="Car Free Carrier Company" />
       <item value="Example" />
       <item value="模糊搜索条件" />
-      <item value="模糊搜索" />
-      <item value="assigned" />
     </histories>
   </component>
 </application>
