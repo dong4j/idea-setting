@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="format" />
+      <item value="格式" />
+      <item value="Malformed URL Exception" />
       <item value="信用查询" />
       <item value="查询" />
       <item value="信用" />
@@ -48,9 +51,6 @@
       <item value="模糊搜索条件" />
       <item value="模糊搜索" />
       <item value="assigned" />
-      <item value="155" />
-      <item value="subscribe" />
-      <item value="current Page" />
     </histories>
   </component>
 </application>
