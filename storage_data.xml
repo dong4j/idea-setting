@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="previously" />
       <item value="Loggable Failure" />
       <item value="Unauthorized Exception" />
       <item value="Not Implemented Yet Exception" />
@@ -50,7 +51,6 @@
       <item value="declared" />
       <item value="carrier" />
       <item value="承运人" />
-      <item value="Car Free Carrier" />
     </histories>
   </component>
 </application>
