@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Loggable Failure" />
+      <item value="Unauthorized Exception" />
+      <item value="Not Implemented Yet Exception" />
+      <item value="Not Found Exception" />
+      <item value="Not Acceptable Exception" />
+      <item value="Method Not Allowed Exception" />
+      <item value="Internal Server Error Exception" />
+      <item value="Forbidden Exception" />
       <item value="accompanying" />
       <item value="statement" />
       <item value="format" />
@@ -43,14 +51,6 @@
       <item value="carrier" />
       <item value="承运人" />
       <item value="Car Free Carrier" />
-      <item value="1为非无车承运人" />
-      <item value="set Receive Time" />
-      <item value="update Wait Waybill Cars Deny" />
-      <item value="get Detail By Waybill Id And Car Info Id" />
-      <item value="Carrier" />
-      <item value="Car Free Carrier Company" />
-      <item value="Example" />
-      <item value="模糊搜索条件" />
     </histories>
   </component>
 </application>
