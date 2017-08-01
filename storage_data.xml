@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Event Search Cargo Log Req" />
       <item value="underlying" />
       <item value="previously" />
       <item value="Loggable Failure" />
@@ -50,7 +51,6 @@
       <item value="carfreecarriercompany" />
       <item value="Const" />
       <item value="declared" />
-      <item value="carrier" />
     </histories>
   </component>
 </application>
