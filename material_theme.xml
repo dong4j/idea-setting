@@ -2,8 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="00cb9f" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isBoldTabs" value="true" />
     <option name="customTreeIndent" value="4" />
+    <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="25" />
     <option name="themedScrollbars" value="false" />
