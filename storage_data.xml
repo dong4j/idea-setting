@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Program No" />
       <item value="is Cargo Number 3 2" />
       <item value="is Amount Number 3 1" />
       <item value="Event Search Cargo Log Req" />
@@ -50,7 +51,6 @@
       <item value="column" />
       <item value="date Cell" />
       <item value="RESULT SUCC" />
-      <item value="carfreecarriercompany" />
     </histories>
   </component>
 </application>
