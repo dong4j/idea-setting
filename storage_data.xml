@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SOLID FOREGROUND" />
+      <item value="set Alignment" />
+      <item value="AQUA" />
+      <item value="Foreground" />
+      <item value="DEFAULT CHARSET" />
+      <item value="BOLDWEIGHT BOLD" />
+      <item value="VERTICAL CENTER" />
+      <item value="ALIGN CENTER" />
       <item value="get Program No" />
       <item value="is Cargo Number 3 2" />
       <item value="is Amount Number 3 1" />
@@ -43,14 +51,6 @@
       <item value="后缀" />
       <item value="后缀哦" />
       <item value="is Annotation Present" />
-      <item value="convert" />
-      <item value="转换" />
-      <item value="combo" />
-      <item value="SOLID FOREGROUND" />
-      <item value="use Merged Cells" />
-      <item value="column" />
-      <item value="date Cell" />
-      <item value="RESULT SUCC" />
     </histories>
   </component>
 </application>
