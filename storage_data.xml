@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="model Type Value" />
+      <item value="grade No" />
       <item value="get Packaged Form" />
       <item value="SOLID FOREGROUND" />
       <item value="set Alignment" />
@@ -49,8 +51,6 @@
       <item value="关系" />
       <item value="Class Cast Exception" />
       <item value="postfix" />
-      <item value="后缀" />
-      <item value="后缀哦" />
     </histories>
   </component>
 </application>
