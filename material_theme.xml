@@ -3,10 +3,12 @@
     <option name="highlightColor" value="00cb9f" />
     <option name="highlightColorEnabled" value="true" />
     <option name="customTreeIndent" value="4" />
+    <option name="wallpaper" value="$USER_HOME$/Public/图片/Vortex.png,60" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="25" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
