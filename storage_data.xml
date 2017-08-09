@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FREEZE" />
       <item value="list Page Freeze Payorder" />
       <item value="fetch Use Balance" />
       <item value="payorderusebalance" />
@@ -50,7 +51,6 @@
       <item value="Query Vehicle Credit" />
       <item value="row" />
       <item value="auto Size Column" />
-      <item value="cell" />
     </histories>
   </component>
 </application>
