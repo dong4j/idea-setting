@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="list Page Freeze Payorder" />
       <item value="fetch Use Balance" />
       <item value="payorderusebalance" />
       <item value="create Trade" />
@@ -50,7 +51,6 @@
       <item value="row" />
       <item value="auto Size Column" />
       <item value="cell" />
-      <item value="content" />
     </histories>
   </component>
 </application>
