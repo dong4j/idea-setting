@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Trade" />
       <item value="fetch Use Balance" />
       <item value="WAIT BUYER PAY" />
       <item value="Payordertrade" />
       <item value="FREEZE" />
       <item value="list Page Freeze Payorder" />
       <item value="payorderusebalance" />
-      <item value="create Trade" />
       <item value="CELL TYPE STRING" />
       <item value="model Type Value" />
       <item value="grade No" />
