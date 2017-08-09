@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payorderusebalance" />
+      <item value="fetch Use Balance" />
+      <item value="create Trade" />
       <item value="CELL TYPE STRING" />
       <item value="model Type Value" />
       <item value="grade No" />
@@ -48,9 +51,6 @@
       <item value="auto Size Column" />
       <item value="cell" />
       <item value="content" />
-      <item value="relation" />
-      <item value="关系" />
-      <item value="Class Cast Exception" />
     </histories>
   </component>
 </application>
