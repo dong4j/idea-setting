@@ -1,4 +1,7 @@
 <application>
+  <component name="AdvancedExpressionFoldingSettings">
+    <option name="arithmeticExpressionsCollapse" value="true" />
+  </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
@@ -12,8 +15,14 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
     <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseInnerClasses" value="true" />
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
+  <component name="MarkdownFoldingSettings">
+    <option name="COLLAPSE_IMAGES" value="false" />
+    <option name="COLLAPSE_SIM_TOC" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_XML_TAGS" value="true" />
