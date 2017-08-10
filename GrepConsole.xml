@@ -36,6 +36,7 @@
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="52e7980d-9180-428a-a033-b6d84b618cef" />
                       <option name="showCountInConsole" value="true" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="sound">
                         <Sound>
                           <option name="enabled" value="true" />
@@ -64,6 +65,7 @@
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="bf2f5599-5413-47bc-84f2-d12e5849eb16" />
                       <option name="showCountInConsole" value="true" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="sound">
                         <Sound>
                           <option name="enabled" value="true" />
@@ -87,6 +89,7 @@
                           <option name="id" value="8349262c-6674-485e-a8d6-9d6a42e81545" />
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value="" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
