@@ -5,6 +5,7 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
+          <option name="filterOutBeforeGrep" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -151,6 +152,7 @@
             </list>
           </option>
           <option name="id" value="1480061895010" />
+          <option name="multiLineOutput" value="true" />
         </Profile>
       </list>
     </option>
