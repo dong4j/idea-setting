@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="create Trade" />
+      <item value="set Payorderusebalance" />
+      <item value="fetch" />
       <item value="fetch Use Balance" />
+      <item value="save Insurance" />
+      <item value="create Trade" />
       <item value="WAIT BUYER PAY" />
       <item value="Payordertrade" />
       <item value="FREEZE" />
@@ -48,9 +51,6 @@
       <item value="license Plate Type Code" />
       <item value="road Transport Certificate No" />
       <item value="captcha" />
-      <item value="Query Person Credit" />
-      <item value="Query Enterprise Credit" />
-      <item value="Query Vehicle Credit" />
     </histories>
   </component>
 </application>
