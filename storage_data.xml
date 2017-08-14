@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUBMITED" />
+      <item value="verify" />
       <item value="handle Withdraw Callback" />
       <item value="insurances" />
       <item value="get Transfee" />
@@ -49,8 +51,6 @@
       <item value="Internal Server Error Exception" />
       <item value="Forbidden Exception" />
       <item value="accompanying" />
-      <item value="statement" />
-      <item value="format" />
     </histories>
   </component>
 </application>
