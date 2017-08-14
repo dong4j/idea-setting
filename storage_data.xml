@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Declared Field" />
       <item value="balance" />
       <item value="set Payorderusebalance" />
       <item value="fetch" />
@@ -50,7 +51,6 @@
       <item value="captcha Chk" />
       <item value="vehicle Number" />
       <item value="license Plate Type Code" />
-      <item value="road Transport Certificate No" />
     </histories>
   </component>
 </application>
