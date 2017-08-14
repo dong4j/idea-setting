@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payment For Invoices" />
       <item value="消耗时间" />
       <item value="use Merged Cells" />
       <item value="关系" />
@@ -50,7 +51,6 @@
       <item value="信用查询" />
       <item value="查询" />
       <item value="信用" />
-      <item value="consent Chk" />
     </histories>
   </component>
 </application>
