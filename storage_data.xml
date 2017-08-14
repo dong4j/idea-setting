@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Transfee" />
+      <item value="EXECUTE SUCCESS" />
       <item value="System Balance Type" />
       <item value="payment For Invoices" />
       <item value="消耗时间" />
@@ -49,8 +51,6 @@
       <item value="format" />
       <item value="格式" />
       <item value="Malformed URL Exception" />
-      <item value="信用查询" />
-      <item value="查询" />
     </histories>
   </component>
 </application>
