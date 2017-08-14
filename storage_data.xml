@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle Withdraw Callback" />
       <item value="insurances" />
       <item value="get Transfee" />
       <item value="EXECUTE SUCCESS" />
@@ -50,7 +51,6 @@
       <item value="accompanying" />
       <item value="statement" />
       <item value="format" />
-      <item value="格式" />
     </histories>
   </component>
 </application>
