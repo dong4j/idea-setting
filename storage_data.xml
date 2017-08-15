@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoice" />
       <item value="deduction" />
       <item value="transport" />
       <item value="freight" />
@@ -50,7 +51,6 @@
       <item value="Not Implemented Yet Exception" />
       <item value="Not Found Exception" />
       <item value="Not Acceptable Exception" />
-      <item value="Method Not Allowed Exception" />
     </histories>
   </component>
 </application>
