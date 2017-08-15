@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transport" />
+      <item value="freight" />
       <item value="SUBMITED" />
       <item value="verify" />
       <item value="handle Withdraw Callback" />
@@ -49,8 +51,6 @@
       <item value="Not Acceptable Exception" />
       <item value="Method Not Allowed Exception" />
       <item value="Internal Server Error Exception" />
-      <item value="Forbidden Exception" />
-      <item value="accompanying" />
     </histories>
   </component>
 </application>
