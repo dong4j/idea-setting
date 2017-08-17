@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pay Order Balance Status" />
+      <item value="With Draw Status" />
+      <item value="Payorder Refund Status" />
+      <item value="Insurance Status" />
+      <item value="Pay Order Trade Status" />
+      <item value="Plat" />
+      <item value="Plat Pay Order Status" />
       <item value="转换" />
       <item value="invoice" />
       <item value="deduction" />
@@ -44,13 +51,6 @@
       <item value="get Program No" />
       <item value="is Cargo Number 3 2" />
       <item value="is Amount Number 3 1" />
-      <item value="Event Search Cargo Log Req" />
-      <item value="underlying" />
-      <item value="previously" />
-      <item value="Loggable Failure" />
-      <item value="Unauthorized Exception" />
-      <item value="Not Implemented Yet Exception" />
-      <item value="Not Found Exception" />
     </histories>
   </component>
 </application>
