@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Localized Message" />
       <item value="Pay Order Balance Status" />
       <item value="With Draw Status" />
       <item value="Payorder Refund Status" />
@@ -50,7 +51,6 @@
       <item value="ALIGN CENTER" />
       <item value="get Program No" />
       <item value="is Cargo Number 3 2" />
-      <item value="is Amount Number 3 1" />
     </histories>
   </component>
 </application>
