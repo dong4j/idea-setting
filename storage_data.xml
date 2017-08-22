@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="服务端" />
+      <item value="get Server" />
       <item value="set Include Payload" />
       <item value="abort With" />
       <item value="get Localized Message" />
@@ -49,8 +51,6 @@
       <item value="Foreground" />
       <item value="DEFAULT CHARSET" />
       <item value="BOLDWEIGHT BOLD" />
-      <item value="VERTICAL CENTER" />
-      <item value="ALIGN CENTER" />
     </histories>
   </component>
 </application>
