@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Typesafe Request Map" />
       <item value="服务端" />
       <item value="get Server" />
       <item value="set Include Payload" />
@@ -50,7 +51,6 @@
       <item value="AQUA" />
       <item value="Foreground" />
       <item value="DEFAULT CHARSET" />
-      <item value="BOLDWEIGHT BOLD" />
     </histories>
   </component>
 </application>
