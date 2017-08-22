@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Filter Internal" />
       <item value="get Typesafe Request Map" />
       <item value="服务端" />
       <item value="get Server" />
@@ -50,7 +51,6 @@
       <item value="set Alignment" />
       <item value="AQUA" />
       <item value="Foreground" />
-      <item value="DEFAULT CHARSET" />
     </histories>
   </component>
 </application>
