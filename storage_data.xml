@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Padding" />
+      <item value="bus Id" />
       <item value="tee" />
       <item value="do Filter Internal" />
       <item value="get Typesafe Request Map" />
@@ -49,8 +51,6 @@
       <item value="grade No" />
       <item value="get Packaged Form" />
       <item value="SOLID FOREGROUND" />
-      <item value="set Alignment" />
-      <item value="AQUA" />
     </histories>
   </component>
 </application>
