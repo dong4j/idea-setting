@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duration" />
       <item value="is Padding" />
       <item value="bus Id" />
       <item value="tee" />
@@ -50,7 +51,6 @@
       <item value="model Type Value" />
       <item value="grade No" />
       <item value="get Packaged Form" />
-      <item value="SOLID FOREGROUND" />
     </histories>
   </component>
 </application>
