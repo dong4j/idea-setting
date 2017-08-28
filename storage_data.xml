@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计表" />
+      <item value="统计" />
       <item value="count" />
       <item value="每天" />
       <item value="支付保单" />
@@ -49,8 +51,6 @@
       <item value="get Declared Field" />
       <item value="balance" />
       <item value="set Payorderusebalance" />
-      <item value="fetch" />
-      <item value="fetch Use Balance" />
     </histories>
   </component>
 </application>
