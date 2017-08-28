@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count" />
+      <item value="每天" />
+      <item value="支付保单" />
+      <item value="支付运单" />
+      <item value="条" />
+      <item value="条数" />
+      <item value="DELIVERY" />
+      <item value="ACCUMULATED" />
+      <item value="累计发货条数" />
+      <item value="累计发货天数" />
       <item value="get Or Create" />
       <item value="duration" />
       <item value="is Padding" />
@@ -41,16 +51,6 @@
       <item value="set Payorderusebalance" />
       <item value="fetch" />
       <item value="fetch Use Balance" />
-      <item value="save Insurance" />
-      <item value="create Trade" />
-      <item value="WAIT BUYER PAY" />
-      <item value="Payordertrade" />
-      <item value="FREEZE" />
-      <item value="list Page Freeze Payorder" />
-      <item value="payorderusebalance" />
-      <item value="CELL TYPE STRING" />
-      <item value="model Type Value" />
-      <item value="grade No" />
     </histories>
   </component>
 </application>
