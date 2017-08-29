@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发货" />
+      <item value="统计分析" />
       <item value="assign" />
       <item value="Userassigncustomer" />
       <item value="Userassigncustomer Service" />
@@ -49,8 +51,6 @@
       <item value="System Balance Type" />
       <item value="payment For Invoices" />
       <item value="消耗时间" />
-      <item value="use Merged Cells" />
-      <item value="关系" />
     </histories>
   </component>
 </application>
