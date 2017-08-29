@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assign" />
+      <item value="Userassigncustomer" />
+      <item value="Userassigncustomer Service" />
       <item value="统计表" />
       <item value="统计" />
       <item value="count" />
@@ -48,9 +51,6 @@
       <item value="消耗时间" />
       <item value="use Merged Cells" />
       <item value="关系" />
-      <item value="get Declared Field" />
-      <item value="balance" />
-      <item value="set Payorderusebalance" />
     </histories>
   </component>
 </application>
