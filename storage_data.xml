@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Safe Varargs" />
       <item value="require Non Null" />
       <item value="统计" />
       <item value="发货" />
@@ -50,7 +51,6 @@
       <item value="get Transfee" />
       <item value="EXECUTE SUCCESS" />
       <item value="System Balance Type" />
-      <item value="payment For Invoices" />
     </histories>
   </component>
 </application>
