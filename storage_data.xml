@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="total Driver Rush Waybill Top By Business" />
       <item value="total Driver" />
       <item value="Safe Varargs" />
       <item value="require Non Null" />
@@ -50,7 +51,6 @@
       <item value="handle Withdraw Callback" />
       <item value="insurances" />
       <item value="get Transfee" />
-      <item value="EXECUTE SUCCESS" />
     </histories>
   </component>
 </application>

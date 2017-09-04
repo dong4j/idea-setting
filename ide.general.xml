@@ -12,5 +12,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="debugger.click.disable.breakpoints" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
