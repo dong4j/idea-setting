@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="total Driver" />
       <item value="Safe Varargs" />
       <item value="require Non Null" />
       <item value="统计" />
@@ -50,7 +51,6 @@
       <item value="insurances" />
       <item value="get Transfee" />
       <item value="EXECUTE SUCCESS" />
-      <item value="System Balance Type" />
     </histories>
   </component>
 </application>
