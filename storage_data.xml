@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="other Vehicle" />
+      <item value="cm Vehicle" />
       <item value="plate" />
       <item value="online User" />
       <item value="plate No" />
@@ -49,8 +51,6 @@
       <item value="Insurance Status" />
       <item value="Pay Order Trade Status" />
       <item value="Plat" />
-      <item value="Plat Pay Order Status" />
-      <item value="转换" />
     </histories>
   </component>
 </application>
