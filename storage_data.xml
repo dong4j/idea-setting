@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Date" />
+      <item value="end" />
+      <item value="end Date" />
+      <item value="begin" />
+      <item value="begin Date" />
+      <item value="handled" />
       <item value="total Driver Rush Waybill Top By Business" />
       <item value="total Driver" />
       <item value="Safe Varargs" />
@@ -45,12 +51,6 @@
       <item value="invoice" />
       <item value="deduction" />
       <item value="transport" />
-      <item value="freight" />
-      <item value="SUBMITED" />
-      <item value="verify" />
-      <item value="handle Withdraw Callback" />
-      <item value="insurances" />
-      <item value="get Transfee" />
     </histories>
   </component>
 </application>
