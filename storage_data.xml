@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cm Vehicle" />
+      <item value="velocity" />
+      <item value="obd Sim No" />
+      <item value="vehicle Id" />
       <item value="REAL MONITOR" />
       <item value="FORMULA" />
       <item value="Cell" />
@@ -8,7 +12,6 @@
       <item value="Entity" />
       <item value="import Excel To Entity" />
       <item value="other Vehicle" />
-      <item value="cm Vehicle" />
       <item value="plate" />
       <item value="online User" />
       <item value="plate No" />
@@ -48,9 +51,6 @@
       <item value="get Typesafe Request Map" />
       <item value="服务端" />
       <item value="get Server" />
-      <item value="set Include Payload" />
-      <item value="abort With" />
-      <item value="get Localized Message" />
     </histories>
   </component>
 </application>
