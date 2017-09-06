@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refresh Interval" />
       <item value="cm Vehicle" />
       <item value="velocity" />
       <item value="obd Sim No" />
@@ -50,7 +51,6 @@
       <item value="do Filter Internal" />
       <item value="get Typesafe Request Map" />
       <item value="服务端" />
-      <item value="get Server" />
     </histories>
   </component>
 </application>
