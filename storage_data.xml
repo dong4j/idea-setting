@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REAL MONITOR" />
       <item value="FORMULA" />
       <item value="Cell" />
       <item value="get Cell" />
@@ -50,7 +51,6 @@
       <item value="set Include Payload" />
       <item value="abort With" />
       <item value="get Localized Message" />
-      <item value="Pay Order Balance Status" />
     </histories>
   </component>
 </application>
