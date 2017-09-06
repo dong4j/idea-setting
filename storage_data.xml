@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entity" />
+      <item value="import Excel To Entity" />
       <item value="other Vehicle" />
       <item value="cm Vehicle" />
       <item value="plate" />
@@ -49,8 +51,6 @@
       <item value="With Draw Status" />
       <item value="Payorder Refund Status" />
       <item value="Insurance Status" />
-      <item value="Pay Order Trade Status" />
-      <item value="Plat" />
     </histories>
   </component>
 </application>
