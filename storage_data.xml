@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FORMULA" />
+      <item value="Cell" />
+      <item value="get Cell" />
       <item value="Entity" />
       <item value="import Excel To Entity" />
       <item value="other Vehicle" />
@@ -48,9 +51,6 @@
       <item value="abort With" />
       <item value="get Localized Message" />
       <item value="Pay Order Balance Status" />
-      <item value="With Draw Status" />
-      <item value="Payorder Refund Status" />
-      <item value="Insurance Status" />
     </histories>
   </component>
 </application>
