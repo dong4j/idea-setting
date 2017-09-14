@@ -8,6 +8,9 @@
   <action id="CodotaSearchEverywhereAction">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt o" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
