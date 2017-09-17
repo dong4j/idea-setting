@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEFAULT COLLECTOR TYPE" />
+      <item value="DEFAULT SYNC TRANSFER" />
       <item value="Basic Auth Middleware" />
       <item value="refresh Interval" />
       <item value="cm Vehicle" />
@@ -49,8 +51,6 @@
       <item value="is Padding" />
       <item value="bus Id" />
       <item value="tee" />
-      <item value="do Filter Internal" />
-      <item value="get Typesafe Request Map" />
     </histories>
   </component>
 </application>
