@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="studio" />
       <item value="处理" />
       <item value="deny" />
       <item value="拒绝" />
@@ -50,7 +51,6 @@
       <item value="条" />
       <item value="条数" />
       <item value="DELIVERY" />
-      <item value="ACCUMULATED" />
     </histories>
   </component>
 </application>
