@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="details" />
+      <item value="详情" />
       <item value="DEFAULT COLLECTOR TYPE" />
       <item value="DEFAULT SYNC TRANSFER" />
       <item value="Basic Auth Middleware" />
@@ -49,8 +51,6 @@
       <item value="get Or Create" />
       <item value="duration" />
       <item value="is Padding" />
-      <item value="bus Id" />
-      <item value="tee" />
     </histories>
   </component>
 </application>
