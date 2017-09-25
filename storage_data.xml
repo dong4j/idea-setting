@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理" />
+      <item value="deny" />
+      <item value="拒绝" />
+      <item value="同意" />
+      <item value="aollow" />
       <item value="details" />
       <item value="详情" />
       <item value="DEFAULT COLLECTOR TYPE" />
@@ -46,11 +51,6 @@
       <item value="条数" />
       <item value="DELIVERY" />
       <item value="ACCUMULATED" />
-      <item value="累计发货条数" />
-      <item value="累计发货天数" />
-      <item value="get Or Create" />
-      <item value="duration" />
-      <item value="is Padding" />
     </histories>
   </component>
 </application>
