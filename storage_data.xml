@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remark" />
+      <item value="recommend" />
+      <item value="介绍" />
       <item value="aes 加密" />
       <item value="Credit Tool" />
       <item value="分隔符" />
@@ -48,9 +51,6 @@
       <item value="统计分析" />
       <item value="assign" />
       <item value="Userassigncustomer" />
-      <item value="Userassigncustomer Service" />
-      <item value="统计表" />
-      <item value="count" />
     </histories>
   </component>
 </application>
