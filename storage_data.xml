@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="头像" />
       <item value="Member" />
       <item value="remark" />
       <item value="recommend" />
@@ -50,7 +51,6 @@
       <item value="统计" />
       <item value="发货" />
       <item value="统计分析" />
-      <item value="assign" />
     </histories>
   </component>
 </application>
