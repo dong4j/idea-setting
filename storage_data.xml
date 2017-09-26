@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="empty" />
+      <item value="空" />
+      <item value="允许" />
       <item value="头像" />
       <item value="Member" />
       <item value="remark" />
@@ -48,9 +51,6 @@
       <item value="total Driver" />
       <item value="Safe Varargs" />
       <item value="require Non Null" />
-      <item value="统计" />
-      <item value="发货" />
-      <item value="统计分析" />
     </histories>
   </component>
 </application>
