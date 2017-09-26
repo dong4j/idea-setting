@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aes 加密" />
+      <item value="Credit Tool" />
       <item value="分隔符" />
       <item value="generate Signature" />
       <item value="salt" />
@@ -49,8 +51,6 @@
       <item value="Userassigncustomer Service" />
       <item value="统计表" />
       <item value="count" />
-      <item value="每天" />
-      <item value="支付保单" />
     </histories>
   </component>
 </application>
