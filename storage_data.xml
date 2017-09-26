@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate Signature" />
+      <item value="salt" />
+      <item value="marshall" />
       <item value="studio" />
       <item value="处理" />
       <item value="deny" />
@@ -48,9 +51,6 @@
       <item value="每天" />
       <item value="支付保单" />
       <item value="支付运单" />
-      <item value="条" />
-      <item value="条数" />
-      <item value="DELIVERY" />
     </histories>
   </component>
 </application>
