@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="friend Profile" />
       <item value="expired Time" />
       <item value="empty" />
       <item value="空" />
@@ -50,7 +51,6 @@
       <item value="handled" />
       <item value="total Driver Rush Waybill Top By Business" />
       <item value="total Driver" />
-      <item value="Safe Varargs" />
     </histories>
   </component>
 </application>
