@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解散" />
+      <item value="聊天" />
       <item value="满" />
       <item value="counts" />
       <item value="user Nick Name" />
@@ -49,8 +51,6 @@
       <item value="Date" />
       <item value="end" />
       <item value="end Date" />
-      <item value="begin" />
-      <item value="begin Date" />
     </histories>
   </component>
 </application>
