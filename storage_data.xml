@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DISMISS" />
+      <item value="CHAT DISMISS" />
       <item value="解散" />
       <item value="聊天" />
       <item value="满" />
@@ -49,8 +51,6 @@
       <item value="online User" />
       <item value="plate No" />
       <item value="Date" />
-      <item value="end" />
-      <item value="end Date" />
     </histories>
   </component>
 </application>
