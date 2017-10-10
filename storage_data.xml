@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通话时长" />
       <item value="introduce" />
       <item value="介绍" />
       <item value="DISMISS" />
@@ -50,7 +51,6 @@
       <item value="other Vehicle" />
       <item value="plate" />
       <item value="online User" />
-      <item value="plate No" />
     </histories>
   </component>
 </application>
