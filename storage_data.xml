@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failure" />
+      <item value="失败" />
+      <item value="成功" />
       <item value="通话时长" />
       <item value="introduce" />
       <item value="介绍" />
@@ -48,9 +51,6 @@
       <item value="get Cell" />
       <item value="Entity" />
       <item value="import Excel To Entity" />
-      <item value="other Vehicle" />
-      <item value="plate" />
-      <item value="online User" />
     </histories>
   </component>
 </application>
