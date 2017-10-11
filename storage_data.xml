@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="keyword" />
+      <item value="关键词" />
       <item value="get Member Counts" />
       <item value="Failure" />
       <item value="失败" />
@@ -49,8 +51,6 @@
       <item value="REAL MONITOR" />
       <item value="FORMULA" />
       <item value="Cell" />
-      <item value="get Cell" />
-      <item value="Entity" />
     </histories>
   </component>
 </application>
