@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="highlightColor" value="cb2959" />
+    <option name="highlightColor" value="1dbb92" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="customTreeIndent" value="4" />
+    <option name="accentColor" value="80cbc4" />
     <option name="wallpaper" value="$USER_HOME$/Public/图片/Vortex.png,60" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
