@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="message" />
+      <item value="信息" />
       <item value="keyword" />
       <item value="关键词" />
       <item value="get Member Counts" />
@@ -49,8 +51,6 @@
       <item value="obd Sim No" />
       <item value="vehicle Id" />
       <item value="REAL MONITOR" />
-      <item value="FORMULA" />
-      <item value="Cell" />
     </histories>
   </component>
 </application>
