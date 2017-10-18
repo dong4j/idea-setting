@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Obtains parameter types of this method / constructor" />
       <item value="Returns the name of the local variable" />
+      <item value="Obtains parameter types of this method / constructor" />
       <item value="Obtains parameter types of this method / constructor ." />
       <item value="Obtains the modifiers of the method / constructor ." />
       <item value="Local Variable Attribute" />
