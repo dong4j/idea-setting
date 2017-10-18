@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculate" />
       <item value="Strategy" />
       <item value="routeStrategy" />
       <item value="呼叫中" />
@@ -50,7 +51,6 @@
       <item value="DEFAULT COLLECTOR TYPE" />
       <item value="DEFAULT SYNC TRANSFER" />
       <item value="Basic Auth Middleware" />
-      <item value="refresh Interval" />
     </histories>
   </component>
 </application>
