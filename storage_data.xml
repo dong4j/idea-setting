@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strategy" />
+      <item value="routeStrategy" />
       <item value="呼叫中" />
       <item value="处理中" />
       <item value="已经" />
@@ -49,8 +51,6 @@
       <item value="DEFAULT SYNC TRANSFER" />
       <item value="Basic Auth Middleware" />
       <item value="refresh Interval" />
-      <item value="cm Vehicle" />
-      <item value="velocity" />
     </histories>
   </component>
 </application>
