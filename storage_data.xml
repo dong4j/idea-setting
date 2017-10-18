@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This represents the name of the local variable ." />
       <item value="Returns the name of the local variable" />
       <item value="Obtains parameter types of this method / constructor" />
       <item value="Obtains parameter types of this method / constructor ." />
@@ -50,7 +51,6 @@
       <item value="Member" />
       <item value="remark" />
       <item value="recommend" />
-      <item value="aes 加密" />
     </histories>
   </component>
 </application>
