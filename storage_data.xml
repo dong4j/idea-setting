@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Obtains parameter types of this method / constructor" />
+      <item value="Returns the name of the local variable" />
+      <item value="Obtains parameter types of this method / constructor ." />
+      <item value="Obtains the modifiers of the method / constructor ." />
+      <item value="Local Variable Attribute" />
+      <item value="specified" />
+      <item value="Returns a Code attribute . @ return a Code attribute or null if it is not specified ." />
+      <item value="Retrieves the method with the specified name among the methods declared in the class . If there are multiple methods with the specified name , then this method returns one of them ." />
+      <item value="Retrieves" />
       <item value="calculate" />
       <item value="distinct" />
       <item value="partition" />
@@ -42,15 +51,6 @@
       <item value="remark" />
       <item value="recommend" />
       <item value="aes 加密" />
-      <item value="Credit Tool" />
-      <item value="分隔符" />
-      <item value="generate Signature" />
-      <item value="salt" />
-      <item value="marshall" />
-      <item value="studio" />
-      <item value="deny" />
-      <item value="拒绝" />
-      <item value="同意" />
     </histories>
   </component>
 </application>
