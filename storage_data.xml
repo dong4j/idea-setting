@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if some of parameter names you need to retain are held in pre - existing jars , they need to be added to the classpath" />
       <item value="This represents the name of the local variable ." />
       <item value="Returns the name of the local variable" />
       <item value="Obtains parameter types of this method / constructor" />
@@ -50,7 +51,6 @@
       <item value="头像" />
       <item value="Member" />
       <item value="remark" />
-      <item value="recommend" />
     </histories>
   </component>
 </application>
