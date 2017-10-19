@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the signature at the join point ." />
+      <item value="The Accessible Object class is the base class for Field , Method and Constructor objects . It provides the ability to flag a reflected object as suppressing default Java language access control checks when it is used . The access checks -- for public , default ( package ) access , protected , and private members -- are performed when Fields , Methods or Constructors are used to set or get fields , to invoke methods , or to create and initialize new instances of classes , respectively ." />
       <item value="打印" />
       <item value="Mybatis" />
       <item value="代理实现类只有1个" />
@@ -49,8 +51,6 @@
       <item value="user Nick Name" />
       <item value="friend Profile" />
       <item value="expired Time" />
-      <item value="empty" />
-      <item value="空" />
     </histories>
   </component>
 </application>
