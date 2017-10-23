@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rule Algorithm" />
       <item value="get Partition Algorithm" />
       <item value="Sets the major and minor version to Java 5. If the major version is older than 49, Java 5 extensions such as annotations are ignored by the JVM ." />
       <item value="Returns the signature at the join point ." />
@@ -50,7 +51,6 @@
       <item value="聊天" />
       <item value="满" />
       <item value="counts" />
-      <item value="user Nick Name" />
     </histories>
   </component>
 </application>
