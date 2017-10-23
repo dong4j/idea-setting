@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolved Default Data Source" />
+      <item value="determine Target Data Source" />
       <item value="Rule Algorithm" />
       <item value="get Partition Algorithm" />
       <item value="Sets the major and minor version to Java 5. If the major version is older than 49, Java 5 extensions such as annotations are ignored by the JVM ." />
@@ -49,8 +51,6 @@
       <item value="CHAT DISMISS" />
       <item value="解散" />
       <item value="聊天" />
-      <item value="满" />
-      <item value="counts" />
     </histories>
   </component>
 </application>
