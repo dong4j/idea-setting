@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Isolation Level Data Source Router" />
+      <item value="Determine the current lookup key . This will typically be implemented to check a thread - bound transaction context . &lt; p &gt; Allows for arbitrary keys . The returned key needs to match the stored lookup key type , as resolved by the {@ link # resolve Specified Lookup Key } method ." />
       <item value="resolved Default Data Source" />
       <item value="determine Target Data Source" />
       <item value="Rule Algorithm" />
@@ -49,8 +51,6 @@
       <item value="介绍" />
       <item value="DISMISS" />
       <item value="CHAT DISMISS" />
-      <item value="解散" />
-      <item value="聊天" />
     </histories>
   </component>
 </application>
