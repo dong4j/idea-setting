@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt; p &gt; Return the value of the specified property of the specified bean , no matter which property reference format is used , as a String .&lt;/ p &gt;" />
       <item value="If we got a Transaction Aware Data Source Proxy , we need to perform // transactions for its underlying target Data Source , else data // access code won ' t see properly exposed transactions ( i . e . // transactions for the target Data Source )." />
       <item value="Isolation Level Data Source Router" />
       <item value="Determine the current lookup key . This will typically be implemented to check a thread - bound transaction context . &lt; p &gt; Allows for arbitrary keys . The returned key needs to match the stored lookup key type , as resolved by the {@ link # resolve Specified Lookup Key } method ." />
@@ -50,7 +51,6 @@
       <item value="通话时长" />
       <item value="introduce" />
       <item value="介绍" />
-      <item value="DISMISS" />
     </histories>
   </component>
 </application>
