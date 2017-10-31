@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已读" />
+      <item value="接收人" />
+      <item value="content" />
+      <item value="内容" />
       <item value="&lt; p &gt; Return the value of the specified property of the specified bean , no matter which property reference format is used , as a String .&lt;/ p &gt;" />
       <item value="If we got a Transaction Aware Data Source Proxy , we need to perform // transactions for its underlying target Data Source , else data // access code won ' t see properly exposed transactions ( i . e . // transactions for the target Data Source )." />
       <item value="Isolation Level Data Source Router" />
@@ -47,10 +51,6 @@
       <item value="get Member Counts" />
       <item value="Failure" />
       <item value="失败" />
-      <item value="成功" />
-      <item value="通话时长" />
-      <item value="introduce" />
-      <item value="介绍" />
     </histories>
   </component>
 </application>
