@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove" />
       <item value="移除" />
+      <item value="踢人" />
       <item value="申请" />
       <item value="agree" />
       <item value="同意" />
@@ -49,8 +51,6 @@
       <item value="routeStrategy" />
       <item value="呼叫中" />
       <item value="处理中" />
-      <item value="已经" />
-      <item value="处理" />
     </histories>
   </component>
 </application>
