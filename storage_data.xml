@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="移除" />
+      <item value="申请" />
+      <item value="agree" />
+      <item value="同意" />
+      <item value="reject" />
+      <item value="拒绝" />
+      <item value="邀请" />
       <item value="已读" />
       <item value="接收人" />
       <item value="content" />
@@ -44,13 +51,6 @@
       <item value="处理中" />
       <item value="已经" />
       <item value="处理" />
-      <item value="message" />
-      <item value="信息" />
-      <item value="keyword" />
-      <item value="关键词" />
-      <item value="get Member Counts" />
-      <item value="Failure" />
-      <item value="失败" />
     </histories>
   </component>
 </application>
