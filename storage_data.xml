@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="处理" />
+      <item value="processed" />
+      <item value="已处理" />
+      <item value="untreated" />
+      <item value="未处理" />
+      <item value="申请" />
       <item value="remove" />
       <item value="移除" />
       <item value="踢人" />
-      <item value="申请" />
       <item value="agree" />
       <item value="同意" />
       <item value="reject" />
@@ -45,12 +51,6 @@
       <item value="partition" />
       <item value="Partition" />
       <item value="getPartitionNum" />
-      <item value="eliminate" />
-      <item value="quote" />
-      <item value="Strategy" />
-      <item value="routeStrategy" />
-      <item value="呼叫中" />
-      <item value="处理中" />
     </histories>
   </component>
 </application>
