@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="agree" />
+      <item value="同意" />
+      <item value="reject" />
+      <item value="拒绝" />
       <item value="handle" />
       <item value="处理" />
       <item value="processed" />
@@ -11,10 +15,6 @@
       <item value="remove" />
       <item value="移除" />
       <item value="踢人" />
-      <item value="agree" />
-      <item value="同意" />
-      <item value="reject" />
-      <item value="拒绝" />
       <item value="邀请" />
       <item value="已读" />
       <item value="接收人" />
