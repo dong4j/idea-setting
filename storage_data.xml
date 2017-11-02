@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CHAT DISMISS" />
       <item value="handle" />
       <item value="处理" />
       <item value="Invalid" />
@@ -50,7 +51,6 @@
       <item value="calculate" />
       <item value="distinct" />
       <item value="partition" />
-      <item value="Partition" />
     </histories>
   </component>
 </application>
