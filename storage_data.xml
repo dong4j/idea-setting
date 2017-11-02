@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exist" />
+      <item value="存在" />
       <item value="handle" />
       <item value="处理" />
       <item value="INVITE JOIN ROOM" />
@@ -49,8 +51,6 @@
       <item value="Returns a Code attribute . @ return a Code attribute or null if it is not specified ." />
       <item value="Retrieves the method with the specified name among the methods declared in the class . If there are multiple methods with the specified name , then this method returns one of them ." />
       <item value="Retrieves" />
-      <item value="calculate" />
-      <item value="distinct" />
     </histories>
   </component>
 </application>
