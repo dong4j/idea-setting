@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symbol" />
+      <item value="符号" />
       <item value="exist" />
       <item value="存在" />
       <item value="handle" />
@@ -49,8 +51,6 @@
       <item value="Local Variable Attribute" />
       <item value="specified" />
       <item value="Returns a Code attribute . @ return a Code attribute or null if it is not specified ." />
-      <item value="Retrieves the method with the specified name among the methods declared in the class . If there are multiple methods with the specified name , then this method returns one of them ." />
-      <item value="Retrieves" />
     </histories>
   </component>
 </application>
