@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="channel Invite Accept" />
+      <item value="on Invite Received" />
       <item value="symbol" />
       <item value="符号" />
       <item value="exist" />
@@ -49,8 +51,6 @@
       <item value="Obtains parameter types of this method / constructor ." />
       <item value="Obtains the modifiers of the method / constructor ." />
       <item value="Local Variable Attribute" />
-      <item value="specified" />
-      <item value="Returns a Code attribute . @ return a Code attribute or null if it is not specified ." />
     </histories>
   </component>
 </application>
