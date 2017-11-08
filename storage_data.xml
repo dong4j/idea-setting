@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="on Invite Accepted By Peer" />
+      <item value="on Invite Refused By Peer" />
       <item value="on Invite Received By Peer" />
-      <item value="channel Invite Accept" />
+      <item value="on Invite Msg" />
+      <item value="on Invite End By Myself" />
+      <item value="on Invite End By Peer" />
+      <item value="on Invite Failed" />
+      <item value="on Invite Accepted By Peer" />
       <item value="on Invite Received" />
+      <item value="channel Invite Accept" />
       <item value="symbol" />
       <item value="符号" />
       <item value="exist" />
@@ -46,11 +51,6 @@
       <item value="Mybatis" />
       <item value="代理实现类只有1个" />
       <item value="inte" />
-      <item value="if some of parameter names you need to retain are held in pre - existing jars , they need to be added to the classpath" />
-      <item value="This represents the name of the local variable ." />
-      <item value="Returns the name of the local variable" />
-      <item value="Obtains parameter types of this method / constructor" />
-      <item value="Obtains parameter types of this method / constructor ." />
     </histories>
   </component>
 </application>
