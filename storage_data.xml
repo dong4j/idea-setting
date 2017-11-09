@@ -1,7 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="离开" />
+      <item value="退出" />
+      <item value="踢人" />
+      <item value="dissolve" />
       <item value="解散" />
+      <item value="refuse" />
+      <item value="拒绝" />
+      <item value="agree" />
+      <item value="同意" />
+      <item value="invite" />
+      <item value="邀请" />
       <item value="二维码" />
       <item value="字符" />
       <item value="peer" />
@@ -25,10 +35,7 @@
       <item value="INVITE JOIN ROOM" />
       <item value="CHAT DISMISS" />
       <item value="Invalid" />
-      <item value="agree" />
-      <item value="同意" />
       <item value="reject" />
-      <item value="拒绝" />
       <item value="processed" />
       <item value="已处理" />
       <item value="untreated" />
@@ -36,8 +43,6 @@
       <item value="申请" />
       <item value="remove" />
       <item value="移除" />
-      <item value="踢人" />
-      <item value="邀请" />
       <item value="已读" />
       <item value="接收人" />
       <item value="content" />
@@ -46,11 +51,6 @@
       <item value="If we got a Transaction Aware Data Source Proxy , we need to perform // transactions for its underlying target Data Source , else data // access code won ' t see properly exposed transactions ( i . e . // transactions for the target Data Source )." />
       <item value="Isolation Level Data Source Router" />
       <item value="Determine the current lookup key . This will typically be implemented to check a thread - bound transaction context . &lt; p &gt; Allows for arbitrary keys . The returned key needs to match the stored lookup key type , as resolved by the {@ link # resolve Specified Lookup Key } method ." />
-      <item value="resolved Default Data Source" />
-      <item value="determine Target Data Source" />
-      <item value="Rule Algorithm" />
-      <item value="get Partition Algorithm" />
-      <item value="Sets the major and minor version to Java 5. If the major version is older than 49, Java 5 extensions such as annotations are ignored by the JVM ." />
     </histories>
   </component>
 </application>
