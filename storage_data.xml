@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二维码" />
       <item value="字符" />
       <item value="peer" />
       <item value="LOGIN E NET" />
@@ -50,7 +51,6 @@
       <item value="get Partition Algorithm" />
       <item value="Sets the major and minor version to Java 5. If the major version is older than 49, Java 5 extensions such as annotations are ignored by the JVM ." />
       <item value="Returns the signature at the join point ." />
-      <item value="The Accessible Object class is the base class for Field , Method and Constructor objects . It provides the ability to flag a reflected object as suppressing default Java language access control checks when it is used . The access checks -- for public , default ( package ) access , protected , and private members -- are performed when Fields , Methods or Constructors are used to set or get fields , to invoke methods , or to create and initialize new instances of classes , respectively ." />
     </histories>
   </component>
 </application>
