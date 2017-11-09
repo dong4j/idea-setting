@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mapper Inspection" />
+      <item value="get Navigation Element" />
       <item value="deeply Append Parameter" />
       <item value="is Escaped Delimeter" />
       <item value="convert" />
@@ -49,8 +51,6 @@
       <item value="移除" />
       <item value="已读" />
       <item value="接收人" />
-      <item value="content" />
-      <item value="内容" />
     </histories>
   </component>
 </application>
