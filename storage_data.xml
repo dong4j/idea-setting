@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deeply Append Parameter" />
+      <item value="is Escaped Delimeter" />
+      <item value="convert" />
+      <item value="转换" />
       <item value="离开" />
       <item value="退出" />
       <item value="踢人" />
@@ -47,10 +51,6 @@
       <item value="接收人" />
       <item value="content" />
       <item value="内容" />
-      <item value="&lt; p &gt; Return the value of the specified property of the specified bean , no matter which property reference format is used , as a String .&lt;/ p &gt;" />
-      <item value="If we got a Transaction Aware Data Source Proxy , we need to perform // transactions for its underlying target Data Source , else data // access code won ' t see properly exposed transactions ( i . e . // transactions for the target Data Source )." />
-      <item value="Isolation Level Data Source Router" />
-      <item value="Determine the current lookup key . This will typically be implemented to check a thread - bound transaction context . &lt; p &gt; Allows for arbitrary keys . The returned key needs to match the stored lookup key type , as resolved by the {@ link # resolve Specified Lookup Key } method ." />
     </histories>
   </component>
 </application>
