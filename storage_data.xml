@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Injection" />
+      <item value="Injection Line Marker Provider" />
       <item value="Related Item Line Marker Info" />
       <item value="get Qualified Name" />
       <item value="Simple Line Marker Provider" />
@@ -49,8 +51,6 @@
       <item value="CHAT DISMISS" />
       <item value="Invalid" />
       <item value="reject" />
-      <item value="processed" />
-      <item value="已处理" />
     </histories>
   </component>
 </application>
