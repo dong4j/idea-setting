@@ -1,17 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Type Aliases" />
+      <item value="is Present" />
+      <item value="Related Item Line Marker Info" />
       <item value="line Marker Provider" />
       <item value="code Insight" />
       <item value="definitions Search" />
       <item value="Injection" />
       <item value="Injection Line Marker Provider" />
-      <item value="Related Item Line Marker Info" />
       <item value="get Qualified Name" />
       <item value="Simple Line Marker Provider" />
       <item value="set Alignment" />
       <item value="absent" />
-      <item value="is Present" />
       <item value="Mapper Definition Search" />
       <item value="Mapper Inspection" />
       <item value="get Navigation Element" />
@@ -50,7 +51,6 @@
       <item value="存在" />
       <item value="handle" />
       <item value="处理" />
-      <item value="INVITE JOIN ROOM" />
     </histories>
   </component>
 </application>
