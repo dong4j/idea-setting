@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="line Marker Provider" />
+      <item value="code Insight" />
+      <item value="definitions Search" />
       <item value="Injection" />
       <item value="Injection Line Marker Provider" />
       <item value="Related Item Line Marker Info" />
@@ -48,9 +51,6 @@
       <item value="handle" />
       <item value="处理" />
       <item value="INVITE JOIN ROOM" />
-      <item value="CHAT DISMISS" />
-      <item value="Invalid" />
-      <item value="reject" />
     </histories>
   </component>
 </application>
