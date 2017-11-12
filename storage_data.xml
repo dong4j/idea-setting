@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Related Item Line Marker Info" />
+      <item value="get Qualified Name" />
+      <item value="Simple Line Marker Provider" />
+      <item value="set Alignment" />
+      <item value="absent" />
+      <item value="is Present" />
       <item value="Mapper Definition Search" />
       <item value="Mapper Inspection" />
       <item value="get Navigation Element" />
@@ -45,12 +51,6 @@
       <item value="reject" />
       <item value="processed" />
       <item value="已处理" />
-      <item value="untreated" />
-      <item value="未处理" />
-      <item value="申请" />
-      <item value="remove" />
-      <item value="移除" />
-      <item value="已读" />
     </histories>
   </component>
 </application>
