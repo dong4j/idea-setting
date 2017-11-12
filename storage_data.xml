@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mapper Method Inspection" />
       <item value="Type Aliases" />
       <item value="is Present" />
       <item value="Related Item Line Marker Info" />
@@ -50,7 +51,6 @@
       <item value="exist" />
       <item value="存在" />
       <item value="handle" />
-      <item value="处理" />
     </histories>
   </component>
 </application>
