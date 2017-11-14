@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="处理" />
+      <item value="conduct" />
       <item value="运维统计" />
       <item value="统计" />
       <item value="It looks like hacking here , as it ' s a little hard to handle so many different cases as Jet Brains does" />
@@ -48,9 +51,6 @@
       <item value="on Invite End By Myself" />
       <item value="on Invite End By Peer" />
       <item value="on Invite Failed" />
-      <item value="on Invite Accepted By Peer" />
-      <item value="on Invite Received" />
-      <item value="channel Invite Accept" />
     </histories>
   </component>
 </application>
