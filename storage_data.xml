@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="交易" />
       <item value="统计" />
       <item value="handle" />
       <item value="处理" />
@@ -50,7 +51,6 @@
       <item value="on Invite Msg" />
       <item value="on Invite End By Myself" />
       <item value="on Invite End By Peer" />
-      <item value="on Invite Failed" />
     </histories>
   </component>
 </application>
