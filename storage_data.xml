@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a string representation of this date , using the locale conventions ." />
+      <item value="Creates a string representation of this &lt; tt &gt; Date &lt;/ tt &gt; object in an implementation - dependent form . The intent is that the form should be familiar to the user of the Java application , wherever it may happen to be running . The intent is comparable to that of the &quot;&lt; code &gt;% c &lt;/ code &gt;&quot; format supported by the &lt; code &gt; strftime ()&lt;/ code &gt; function of ISO &amp; nbsp ; C ." />
       <item value="roll" />
       <item value="交易" />
       <item value="统计" />
@@ -49,8 +51,6 @@
       <item value="LEAVECHANNEL E OTHER" />
       <item value="on Invite Refused By Peer" />
       <item value="on Invite Received By Peer" />
-      <item value="on Invite Msg" />
-      <item value="on Invite End By Myself" />
     </histories>
   </component>
 </application>
