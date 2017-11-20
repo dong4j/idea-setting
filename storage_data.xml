@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculating" />
       <item value="NODE CHILDREN CHANGED" />
       <item value="NODE DATA CHANGED" />
       <item value="a string representation of this date , using the locale conventions ." />
@@ -50,7 +51,6 @@
       <item value="字符" />
       <item value="peer" />
       <item value="LOGIN E NET" />
-      <item value="LEAVECHANNEL E OTHER" />
     </histories>
   </component>
 </application>
