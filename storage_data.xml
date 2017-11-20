@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="truncated" />
       <item value="calculating" />
       <item value="NODE CHILDREN CHANGED" />
       <item value="NODE DATA CHANGED" />
@@ -50,7 +51,6 @@
       <item value="二维码" />
       <item value="字符" />
       <item value="peer" />
-      <item value="LOGIN E NET" />
     </histories>
   </component>
 </application>
