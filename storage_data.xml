@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notify" />
+      <item value="Subscribe" />
       <item value="determine Target Data Source" />
       <item value="determine Current Lookup Key" />
       <item value="resolve Specified Data Source" />
@@ -49,8 +51,6 @@
       <item value="拒绝" />
       <item value="agree" />
       <item value="同意" />
-      <item value="invite" />
-      <item value="邀请" />
     </histories>
   </component>
 </application>
