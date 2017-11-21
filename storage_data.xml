@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ignoring error during event callback" />
       <item value="Notify" />
       <item value="Subscribe" />
       <item value="determine Target Data Source" />
@@ -50,7 +51,6 @@
       <item value="refuse" />
       <item value="拒绝" />
       <item value="agree" />
-      <item value="同意" />
     </histories>
   </component>
 </application>
