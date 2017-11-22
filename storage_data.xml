@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handler Pay Freight To Driver Success" />
       <item value="locate" />
       <item value="Ignoring error during event callback" />
       <item value="Notify" />
@@ -50,7 +51,6 @@
       <item value="dissolve" />
       <item value="解散" />
       <item value="refuse" />
-      <item value="拒绝" />
     </histories>
   </component>
 </application>
