@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Subscribe" />
+      <item value="on Complete" />
       <item value="tonnage" />
       <item value="cargo Tonnage" />
       <item value="handler Pay Freight To Driver Success" />
@@ -49,8 +51,6 @@
       <item value="转换" />
       <item value="离开" />
       <item value="退出" />
-      <item value="踢人" />
-      <item value="dissolve" />
     </histories>
   </component>
 </application>
