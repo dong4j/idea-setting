@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tonnage" />
+      <item value="cargo Tonnage" />
       <item value="handler Pay Freight To Driver Success" />
       <item value="locate" />
       <item value="Ignoring error during event callback" />
@@ -49,8 +51,6 @@
       <item value="退出" />
       <item value="踢人" />
       <item value="dissolve" />
-      <item value="解散" />
-      <item value="refuse" />
     </histories>
   </component>
 </application>
