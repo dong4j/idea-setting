@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vehicle Number" />
       <item value="Usefrequencylog" />
       <item value="vehicle Dao" />
       <item value="on Subscribe" />
@@ -50,7 +51,6 @@
       <item value="deeply Append Parameter" />
       <item value="is Escaped Delimeter" />
       <item value="convert" />
-      <item value="转换" />
     </histories>
   </component>
 </application>
