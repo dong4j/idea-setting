@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consignment Date Time" />
+      <item value="Goods Receipt Date Time" />
+      <item value="Despatch Actual Date Time" />
       <item value="vehicle Number" />
       <item value="Usefrequencylog" />
       <item value="vehicle Dao" />
@@ -48,9 +51,6 @@
       <item value="Mapper Definition Search" />
       <item value="Mapper Inspection" />
       <item value="get Navigation Element" />
-      <item value="deeply Append Parameter" />
-      <item value="is Escaped Delimeter" />
-      <item value="convert" />
     </histories>
   </component>
 </application>
