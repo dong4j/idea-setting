@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="休眠时间" />
       <item value="Consignment Date Time" />
       <item value="Goods Receipt Date Time" />
       <item value="Despatch Actual Date Time" />
@@ -50,7 +51,6 @@
       <item value="absent" />
       <item value="Mapper Definition Search" />
       <item value="Mapper Inspection" />
-      <item value="get Navigation Element" />
     </histories>
   </component>
 </application>
