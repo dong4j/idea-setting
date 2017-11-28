@@ -39,6 +39,7 @@
                       <option name="showCountInStatusBar" value="true" />
                       <option name="sound">
                         <Sound>
+                          <option name="enabled" value="true" />
                           <option name="path" value="$USER_HOME$/Documents/MACSound/Contact Online.wav" />
                         </Sound>
                       </option>
@@ -67,6 +68,7 @@
                       <option name="showCountInStatusBar" value="true" />
                       <option name="sound">
                         <Sound>
+                          <option name="enabled" value="true" />
                           <option name="path" value="$USER_HOME$/Documents/MACSound/Start Navigation.wav" />
                         </Sound>
                       </option>
