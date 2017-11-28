@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
+      <item value="period" />
       <item value="interval" />
       <item value="休眠时间" />
       <item value="Consignment Date Time" />
@@ -49,8 +51,6 @@
       <item value="get Qualified Name" />
       <item value="Simple Line Marker Provider" />
       <item value="set Alignment" />
-      <item value="absent" />
-      <item value="Mapper Definition Search" />
     </histories>
   </component>
 </application>
