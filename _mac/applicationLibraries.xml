@@ -7,7 +7,7 @@
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Downloads/SpringBootQuartz-master/demo/src/main/resources/static/js/element-ui_lib_index.js" />
+        <root url="file://$USER_HOME$/Downloads/SpringBootQuartz-master/demo/src/main/resources/static/js/element-ui.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -19,7 +19,7 @@
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Downloads/SpringBootQuartz-master/demo/src/main/resources/static/js/vue_dist_vue.js" />
+        <root url="file://$USER_HOME$/Downloads/SpringBootQuartz-master/demo/src/main/resources/static/js/vue.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -31,7 +31,7 @@
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Downloads/SpringBootQuartz-master/demo/src/main/resources/static/js/vue-resource_1.3.4.js" />
+        <root url="file://$USER_HOME$/Downloads/SpringBootQuartz-master/demo/src/main/resources/static/js/vue-resource.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
