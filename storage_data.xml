@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fork" />
       <item value="provided" />
       <item value="resumejob" />
       <item value="vehicle Tonnage" />
@@ -50,7 +51,6 @@
       <item value="code Insight" />
       <item value="definitions Search" />
       <item value="Injection" />
-      <item value="Injection Line Marker Provider" />
     </histories>
   </component>
 </application>
