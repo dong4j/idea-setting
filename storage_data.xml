@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resumejob" />
       <item value="vehicle Tonnage" />
       <item value="milliseconds" />
       <item value="period" />
@@ -50,7 +51,6 @@
       <item value="Injection" />
       <item value="Injection Line Marker Provider" />
       <item value="get Qualified Name" />
-      <item value="Simple Line Marker Provider" />
     </histories>
   </component>
 </application>
