@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual" />
       <item value="fork" />
       <item value="provided" />
       <item value="resumejob" />
@@ -50,7 +51,6 @@
       <item value="line Marker Provider" />
       <item value="code Insight" />
       <item value="definitions Search" />
-      <item value="Injection" />
     </histories>
   </component>
 </application>
