@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prop" />
       <item value="durability" />
       <item value="priority" />
       <item value="with Identity" />
@@ -50,7 +51,6 @@
       <item value="Subscribe" />
       <item value="determine Target Data Source" />
       <item value="determine Current Lookup Key" />
-      <item value="resolve Specified Data Source" />
     </histories>
   </component>
 </application>
