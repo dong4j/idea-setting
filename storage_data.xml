@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trigger Group" />
       <item value="manual" />
       <item value="fork" />
       <item value="provided" />
@@ -50,7 +51,6 @@
       <item value="Related Item Line Marker Info" />
       <item value="line Marker Provider" />
       <item value="code Insight" />
-      <item value="definitions Search" />
     </histories>
   </component>
 </application>
