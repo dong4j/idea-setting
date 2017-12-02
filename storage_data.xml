@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trigger" />
+      <item value="Reschedule" />
+      <item value="Resume" />
+      <item value="resumejob" />
       <item value="using Job Data" />
       <item value="store Durably" />
       <item value="job Should Recover" />
@@ -8,7 +12,6 @@
       <item value="manual" />
       <item value="fork" />
       <item value="provided" />
-      <item value="resumejob" />
       <item value="vehicle Tonnage" />
       <item value="milliseconds" />
       <item value="period" />
@@ -48,9 +51,6 @@
       <item value="It looks like hacking here , as it ' s a little hard to handle so many different cases as Jet Brains does" />
       <item value="does" />
       <item value="Contributor" />
-      <item value="Mapper Method Inspection" />
-      <item value="Type Aliases" />
-      <item value="is Present" />
     </histories>
   </component>
 </application>
