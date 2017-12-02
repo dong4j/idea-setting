@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rejected" />
       <item value="trigger" />
       <item value="Reschedule" />
       <item value="Resume" />
@@ -50,7 +51,6 @@
       <item value="运维统计" />
       <item value="It looks like hacking here , as it ' s a little hard to handle so many different cases as Jet Brains does" />
       <item value="does" />
-      <item value="Contributor" />
     </histories>
   </component>
 </application>
