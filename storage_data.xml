@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pause Job" />
+      <item value="associated" />
+      <item value="If the related job does not have any other triggers , and the job is not durable , then the job will also be deleted ." />
+      <item value="Remove the indicated" />
+      <item value="pause Trigger" />
+      <item value="unschedule Job" />
       <item value="Keys are composed of both a name and group , and the name must be unique within the group . If only a group is specified then the default group name will be used" />
       <item value="with Identity" />
       <item value="future Date" />
@@ -45,12 +51,6 @@
       <item value="resolve Specified Data Source" />
       <item value="truncated" />
       <item value="calculating" />
-      <item value="NODE CHILDREN CHANGED" />
-      <item value="NODE DATA CHANGED" />
-      <item value="a string representation of this date , using the locale conventions ." />
-      <item value="Creates a string representation of this &lt; tt &gt; Date &lt;/ tt &gt; object in an implementation - dependent form . The intent is that the form should be familiar to the user of the Java application , wherever it may happen to be running . The intent is comparable to that of the &quot;&lt; code &gt;% c &lt;/ code &gt;&quot; format supported by the &lt; code &gt; strftime ()&lt;/ code &gt; function of ISO &amp; nbsp ; C ." />
-      <item value="roll" />
-      <item value="交易" />
     </histories>
   </component>
 </application>
