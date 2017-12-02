@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="durability" />
+      <item value="priority" />
+      <item value="with Identity" />
       <item value="pause Job" />
       <item value="associated" />
       <item value="If the related job does not have any other triggers , and the job is not durable , then the job will also be deleted ." />
@@ -8,7 +11,6 @@
       <item value="pause Trigger" />
       <item value="unschedule Job" />
       <item value="Keys are composed of both a name and group , and the name must be unique within the group . If only a group is specified then the default group name will be used" />
-      <item value="with Identity" />
       <item value="future Date" />
       <item value="beans can look up collaborating beans via the factory ( Dependency Lookup ). Note that most beans will choose to receive references to collaborating beans via corresponding bean properties or constructor arguments ( Dependency Injection )." />
       <item value="Integration code for other frameworks can leverage this interface to wire and populate existing bean instances that Spring does not control the lifecycle of . This is particularly useful for Web Work Actions and Tapestry Page objects , for example ." />
@@ -49,8 +51,6 @@
       <item value="determine Target Data Source" />
       <item value="determine Current Lookup Key" />
       <item value="resolve Specified Data Source" />
-      <item value="truncated" />
-      <item value="calculating" />
     </histories>
   </component>
 </application>
