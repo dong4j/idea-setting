@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="using Job Data" />
+      <item value="store Durably" />
+      <item value="job Should Recover" />
       <item value="trigger Group" />
       <item value="manual" />
       <item value="fork" />
@@ -48,9 +51,6 @@
       <item value="Mapper Method Inspection" />
       <item value="Type Aliases" />
       <item value="is Present" />
-      <item value="Related Item Line Marker Info" />
-      <item value="line Marker Provider" />
-      <item value="code Insight" />
     </histories>
   </component>
 </application>
