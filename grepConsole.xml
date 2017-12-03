@@ -3,6 +3,7 @@
     <option name="profiles">
       <list>
         <Profile>
+          <option name="alwaysPinGrepConsoles" value="false" />
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
           <option name="filterOutBeforeGrep" value="true" />
