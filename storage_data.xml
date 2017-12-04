@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execute" />
+      <item value="执行" />
+      <item value="请求网络" />
       <item value="prop" />
       <item value="durability" />
       <item value="priority" />
@@ -48,9 +51,6 @@
       <item value="locate" />
       <item value="Ignoring error during event callback" />
       <item value="Notify" />
-      <item value="Subscribe" />
-      <item value="determine Target Data Source" />
-      <item value="determine Current Lookup Key" />
     </histories>
   </component>
 </application>
