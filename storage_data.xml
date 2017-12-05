@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Profiling Aspect" />
       <item value="specified" />
       <item value="execute" />
       <item value="执行" />
@@ -50,7 +51,6 @@
       <item value="cargo Tonnage" />
       <item value="handler Pay Freight To Driver Success" />
       <item value="locate" />
-      <item value="Ignoring error during event callback" />
     </histories>
   </component>
 </application>
