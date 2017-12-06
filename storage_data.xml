@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEBIAN FRONTEND" />
+      <item value="prerequisites" />
+      <item value="REFRESHED AT" />
       <item value="Kafka Consume Test" />
       <item value="Profiling Aspect" />
       <item value="specified" />
@@ -48,9 +51,6 @@
       <item value="vehicle Dao" />
       <item value="on Subscribe" />
       <item value="on Complete" />
-      <item value="tonnage" />
-      <item value="cargo Tonnage" />
-      <item value="handler Pay Freight To Driver Success" />
     </histories>
   </component>
 </application>
