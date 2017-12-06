@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kafka Consume Test" />
       <item value="Profiling Aspect" />
       <item value="specified" />
       <item value="execute" />
@@ -50,7 +51,6 @@
       <item value="tonnage" />
       <item value="cargo Tonnage" />
       <item value="handler Pay Freight To Driver Success" />
-      <item value="locate" />
     </histories>
   </component>
 </application>
