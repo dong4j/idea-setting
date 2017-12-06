@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CONFIGURATION" />
       <item value="DEBIAN FRONTEND" />
       <item value="prerequisites" />
       <item value="REFRESHED AT" />
@@ -50,7 +51,6 @@
       <item value="Usefrequencylog" />
       <item value="vehicle Dao" />
       <item value="on Subscribe" />
-      <item value="on Complete" />
     </histories>
   </component>
 </application>
