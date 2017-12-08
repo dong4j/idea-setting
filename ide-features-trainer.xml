@@ -5,9 +5,9 @@
   <component name="LessonStateBase">
     <option name="myMap">
       <map>
-        <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
+        <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
-        <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
         <entry key="Completions.BasicCompletion" value="PASSED" />
         <entry key="Completions.CompletionwithTab" value="PASSED" />
@@ -20,14 +20,84 @@
         <entry key="EditorBasics.Move" value="PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="PASSED" />
         <entry key="EditorBasics.Selection" value="PASSED" />
-        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
-        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
-        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
+        <entry key="Navigation.FileStructure" value="PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
         <entry key="Refactorings.RefactoringBasics" value="PASSED" />
         <entry key="Refactorings.Rename" value="PASSED" />
+      </map>
+    </option>
+  </component>
+  <component name="StatisticBase">
+    <option name="persistedLessonId2State">
+      <map>
+        <entry key="CodeAssistance.CodeFormatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="21834" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.EditorCodingAssistance">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1512719671225" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.ParameterInfo">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="22538" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.QuickPopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1512719541106" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="66219" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="20827" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="48805" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1512719372716" />
+            </StatisticData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
