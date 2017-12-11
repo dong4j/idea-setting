@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications" />
+      <item value="initial" />
       <item value="详情" />
       <item value="Advertise Dao Impl" />
       <item value="response" />
@@ -49,8 +51,6 @@
       <item value="fork" />
       <item value="provided" />
       <item value="vehicle Tonnage" />
-      <item value="milliseconds" />
-      <item value="period" />
     </histories>
   </component>
 </application>
