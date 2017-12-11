@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="already Has Vehicle" />
       <item value="renewed" />
       <item value="CONFIGURATION" />
       <item value="DEBIAN FRONTEND" />
@@ -50,7 +51,6 @@
       <item value="Despatch Actual Date Time" />
       <item value="vehicle Number" />
       <item value="Usefrequencylog" />
-      <item value="vehicle Dao" />
     </histories>
   </component>
 </application>
