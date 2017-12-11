@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Longitude" />
+      <item value="get Latitude" />
       <item value="generate Waybill Location" />
       <item value="vehicle" />
       <item value="already Has Vehicle" />
@@ -49,8 +51,6 @@
       <item value="interval" />
       <item value="休眠时间" />
       <item value="Consignment Date Time" />
-      <item value="Goods Receipt Date Time" />
-      <item value="Despatch Actual Date Time" />
     </histories>
   </component>
 </application>
