@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receiver code" />
       <item value="Communications" />
       <item value="initial" />
       <item value="详情" />
@@ -50,7 +51,6 @@
       <item value="manual" />
       <item value="fork" />
       <item value="provided" />
-      <item value="vehicle Tonnage" />
     </histories>
   </component>
 </application>
