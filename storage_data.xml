@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="详情" />
       <item value="Advertise Dao Impl" />
       <item value="response" />
       <item value="get Longitude" />
@@ -50,7 +51,6 @@
       <item value="vehicle Tonnage" />
       <item value="milliseconds" />
       <item value="period" />
-      <item value="interval" />
     </histories>
   </component>
 </application>
