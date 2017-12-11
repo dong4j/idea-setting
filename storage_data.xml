@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destination" />
+      <item value="origin" />
       <item value="receiver code" />
       <item value="Communications" />
       <item value="initial" />
@@ -49,8 +51,6 @@
       <item value="job Should Recover" />
       <item value="trigger Group" />
       <item value="manual" />
-      <item value="fork" />
-      <item value="provided" />
     </histories>
   </component>
 </application>
