@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="response" />
       <item value="get Longitude" />
       <item value="get Latitude" />
       <item value="generate Waybill Location" />
@@ -50,7 +51,6 @@
       <item value="period" />
       <item value="interval" />
       <item value="休眠时间" />
-      <item value="Consignment Date Time" />
     </histories>
   </component>
 </application>
