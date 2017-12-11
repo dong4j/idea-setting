@@ -5,6 +5,6 @@
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Indexing" />
-    <notification groupId="System Health" displayType="STICKY_BALLOON" />
+    <notification groupId="Outdated Kotlin Runtime" shouldLog="false" />
   </component>
 </application>
