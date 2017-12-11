@@ -1,8 +1,6 @@
 <templateSet group="output">
-  <template name="sout" value="System.out.println(&quot;$val$ 的值是：---&gt;&quot;+ $val$ + &quot;，当前方法 = $CLASS_NAME$.$METHOD_NAME$() --&gt; by 2017-10-19 15:21 dong4j&quot;);$END$" description="Prints a string to System.out" toReformat="true" toShortenFQNames="true">
+  <template name="sout" value="System.out.println(&quot;$val$&quot;);$END$" description="Prints a string to System.out" toReformat="true" toShortenFQNames="true">
     <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
 </templateSet>
