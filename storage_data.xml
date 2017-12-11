@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="journey" />
       <item value="destination" />
       <item value="origin" />
       <item value="receiver code" />
@@ -50,7 +51,6 @@
       <item value="store Durably" />
       <item value="job Should Recover" />
       <item value="trigger Group" />
-      <item value="manual" />
     </histories>
   </component>
 </application>
