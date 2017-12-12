@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identified" />
       <item value="sender" />
       <item value="compare" />
       <item value="except Compa" />
@@ -50,7 +51,6 @@
       <item value="Rejected" />
       <item value="trigger" />
       <item value="Reschedule" />
-      <item value="Resume" />
     </histories>
   </component>
 </application>
