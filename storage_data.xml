@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sender" />
+      <item value="compare" />
+      <item value="except Compa" />
+      <item value="receipt" />
+      <item value="receiptdate" />
       <item value="journey" />
       <item value="destination" />
       <item value="origin" />
@@ -46,11 +51,6 @@
       <item value="trigger" />
       <item value="Reschedule" />
       <item value="Resume" />
-      <item value="resumejob" />
-      <item value="using Job Data" />
-      <item value="store Durably" />
-      <item value="job Should Recover" />
-      <item value="trigger Group" />
     </histories>
   </component>
 </application>
