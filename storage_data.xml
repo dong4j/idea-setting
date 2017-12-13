@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attachment" />
       <item value="Identified" />
       <item value="sender" />
       <item value="compare" />
@@ -50,7 +51,6 @@
       <item value="Extension" />
       <item value="Rejected" />
       <item value="trigger" />
-      <item value="Reschedule" />
     </histories>
   </component>
 </application>
