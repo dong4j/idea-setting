@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Transport User Id" />
+      <item value="set Transport Company Name" />
+      <item value="set Consignee User Id" />
       <item value="freight Dept Id" />
       <item value="specified" />
       <item value="is Exists" />
@@ -48,9 +51,6 @@
       <item value="If the related job does not have any other triggers , and the job is not durable , then the job will also be deleted ." />
       <item value="Remove the indicated" />
       <item value="pause Trigger" />
-      <item value="unschedule Job" />
-      <item value="Keys are composed of both a name and group , and the name must be unique within the group . If only a group is specified then the default group name will be used" />
-      <item value="future Date" />
     </histories>
   </component>
 </application>
