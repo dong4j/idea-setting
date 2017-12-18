@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="freight Dept Id" />
       <item value="specified" />
       <item value="is Exists" />
       <item value="Context Refreshed Event" />
@@ -50,7 +51,6 @@
       <item value="unschedule Job" />
       <item value="Keys are composed of both a name and group , and the name must be unique within the group . If only a group is specified then the default group name will be used" />
       <item value="future Date" />
-      <item value="beans can look up collaborating beans via the factory ( Dependency Lookup ). Note that most beans will choose to receive references to collaborating beans via corresponding bean properties or constructor arguments ( Dependency Injection )." />
     </histories>
   </component>
 </application>
