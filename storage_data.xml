@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contain" />
       <item value="set Transport User Id" />
       <item value="set Transport Company Name" />
       <item value="set Consignee User Id" />
@@ -50,7 +51,6 @@
       <item value="associated" />
       <item value="If the related job does not have any other triggers , and the job is not durable , then the job will also be deleted ." />
       <item value="Remove the indicated" />
-      <item value="pause Trigger" />
     </histories>
   </component>
 </application>
