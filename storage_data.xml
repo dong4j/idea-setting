@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtained" />
       <item value="origin Address" />
       <item value="keyword" />
       <item value="contain" />
@@ -50,7 +51,6 @@
       <item value="priority" />
       <item value="with Identity" />
       <item value="pause Job" />
-      <item value="associated" />
     </histories>
   </component>
 </application>
