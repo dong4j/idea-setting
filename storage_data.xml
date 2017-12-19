@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEFAULT INSTANCE ID" />
       <item value="obtained" />
       <item value="origin Address" />
       <item value="keyword" />
@@ -50,7 +51,6 @@
       <item value="durability" />
       <item value="priority" />
       <item value="with Identity" />
-      <item value="pause Job" />
     </histories>
   </component>
 </application>
