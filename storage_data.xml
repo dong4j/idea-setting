@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vehicle Number" />
       <item value="Authenticate Request Envelope" />
       <item value="DEFAULT INSTANCE ID" />
       <item value="obtained" />
@@ -50,7 +51,6 @@
       <item value="请求网络" />
       <item value="prop" />
       <item value="durability" />
-      <item value="priority" />
     </histories>
   </component>
 </application>
