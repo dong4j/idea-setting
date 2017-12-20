@@ -11,6 +11,5 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="debugger.click.disable.breakpoints" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
