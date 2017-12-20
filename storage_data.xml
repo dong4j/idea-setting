@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authenticate Request Envelope" />
       <item value="DEFAULT INSTANCE ID" />
       <item value="obtained" />
       <item value="origin Address" />
@@ -50,7 +51,6 @@
       <item value="prop" />
       <item value="durability" />
       <item value="priority" />
-      <item value="with Identity" />
     </histories>
   </component>
 </application>
