@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upload Sender Invoices" />
       <item value="vehicle Number" />
       <item value="Authenticate Request Envelope" />
       <item value="DEFAULT INSTANCE ID" />
@@ -50,7 +51,6 @@
       <item value="执行" />
       <item value="请求网络" />
       <item value="prop" />
-      <item value="durability" />
     </histories>
   </component>
 </application>
