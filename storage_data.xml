@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROJECT STATUS START" />
       <item value="PROJECT STATUS END" />
       <item value="PROJECT STATUS DELETED" />
       <item value="is Main Project" />
@@ -50,7 +51,6 @@
       <item value="CONFIGURATION" />
       <item value="DEBIAN FRONTEND" />
       <item value="prerequisites" />
-      <item value="REFRESHED AT" />
     </histories>
   </component>
 </application>
