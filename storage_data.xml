@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Shipper Bill Invoice Data" />
+      <item value="create Item To Shipper" />
+      <item value="save Project Items To Sender And Receiver" />
       <item value="upload Sender Invoices" />
       <item value="vehicle Number" />
       <item value="Authenticate Request Envelope" />
@@ -48,9 +51,6 @@
       <item value="Kafka Consume Test" />
       <item value="Profiling Aspect" />
       <item value="execute" />
-      <item value="执行" />
-      <item value="请求网络" />
-      <item value="prop" />
     </histories>
   </component>
 </application>
