@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROJECT STATUS END" />
+      <item value="PROJECT STATUS START" />
+      <item value="PROJECT STATUS DELETED" />
       <item value="discuss" />
       <item value="Projectlinediscuss" />
-      <item value="PROJECT STATUS START" />
-      <item value="PROJECT STATUS END" />
-      <item value="PROJECT STATUS DELETED" />
       <item value="is Main Project" />
       <item value="check Shipper Bill Invoice Data" />
       <item value="create Item To Shipper" />
