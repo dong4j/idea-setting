@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discuss" />
+      <item value="Projectlinediscuss" />
       <item value="PROJECT STATUS START" />
       <item value="PROJECT STATUS END" />
       <item value="PROJECT STATUS DELETED" />
@@ -49,8 +51,6 @@
       <item value="already Has Vehicle" />
       <item value="renewed" />
       <item value="CONFIGURATION" />
-      <item value="DEBIAN FRONTEND" />
-      <item value="prerequisites" />
     </histories>
   </component>
 </application>
