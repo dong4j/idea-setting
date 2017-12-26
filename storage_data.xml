@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto Add Assign" />
       <item value="FUNCTYPE CONSIGNEE" />
       <item value="FUNCTYPE TRANSPORTER" />
       <item value="FUNCTYPE SENDER CONSIGNEE" />
@@ -50,7 +51,6 @@
       <item value="get Longitude" />
       <item value="get Latitude" />
       <item value="generate Waybill Location" />
-      <item value="vehicle" />
     </histories>
   </component>
 </application>
