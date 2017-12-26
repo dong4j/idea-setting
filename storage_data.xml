@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FUNCTYPE CONSIGNEE" />
+      <item value="FUNCTYPE TRANSPORTER" />
+      <item value="FUNCTYPE SENDER CONSIGNEE" />
       <item value="PROJECT STATUS END" />
       <item value="PROJECT STATUS START" />
       <item value="PROJECT STATUS DELETED" />
@@ -48,9 +51,6 @@
       <item value="get Latitude" />
       <item value="generate Waybill Location" />
       <item value="vehicle" />
-      <item value="already Has Vehicle" />
-      <item value="renewed" />
-      <item value="CONFIGURATION" />
     </histories>
   </component>
 </application>
