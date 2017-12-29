@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upload Sender Invoices" />
       <item value="FUNCTYPE CONSIGNEE" />
       <item value="FUNCTYPE TRANSPORTER" />
       <item value="FUNCTYPE SENDER CONSIGNEE" />
@@ -14,7 +15,6 @@
       <item value="check Shipper Bill Invoice Data" />
       <item value="create Item To Shipper" />
       <item value="save Project Items To Sender And Receiver" />
-      <item value="upload Sender Invoices" />
       <item value="vehicle Number" />
       <item value="Authenticate Request Envelope" />
       <item value="DEFAULT INSTANCE ID" />
