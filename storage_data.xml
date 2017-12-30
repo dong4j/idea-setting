@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="oil Card Amount" />
+      <item value="deposit Amount" />
       <item value="assigned" />
       <item value="upload Sender Invoices" />
       <item value="FUNCTYPE CONSIGNEE" />
@@ -49,8 +51,6 @@
       <item value="详情" />
       <item value="Advertise Dao Impl" />
       <item value="response" />
-      <item value="get Longitude" />
-      <item value="get Latitude" />
     </histories>
   </component>
 </application>
