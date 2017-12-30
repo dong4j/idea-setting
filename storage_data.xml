@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assigned" />
       <item value="upload Sender Invoices" />
       <item value="FUNCTYPE CONSIGNEE" />
       <item value="FUNCTYPE TRANSPORTER" />
@@ -50,7 +51,6 @@
       <item value="response" />
       <item value="get Longitude" />
       <item value="get Latitude" />
-      <item value="generate Waybill Location" />
     </histories>
   </component>
 </application>
