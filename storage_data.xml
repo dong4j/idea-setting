@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TYPE FREIGHT" />
       <item value="channel Invite End" />
       <item value="oil Card Amount" />
       <item value="deposit Amount" />
@@ -50,7 +51,6 @@
       <item value="Communications" />
       <item value="initial" />
       <item value="详情" />
-      <item value="Advertise Dao Impl" />
     </histories>
   </component>
 </application>
