@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Despatch Actual Date Time" />
+      <item value="Goods Receipt Date Time" />
       <item value="TYPE FREIGHT" />
       <item value="channel Invite End" />
       <item value="oil Card Amount" />
@@ -49,8 +51,6 @@
       <item value="origin" />
       <item value="receiver code" />
       <item value="Communications" />
-      <item value="initial" />
-      <item value="详情" />
     </histories>
   </component>
 </application>
