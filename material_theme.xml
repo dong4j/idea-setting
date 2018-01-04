@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.4.0" />
+    <option name="version" value="1.5.2.2" />
     <option name="highlightColor" value="1dbb92" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isMaterialDesign" value="false" />
@@ -11,7 +11,6 @@
     <option name="tabsHeight" value="23" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="defaultBackground" value="$USER_HOME$/Public/图片/Vortex.png,60" />
     <option name="accentScrollbars" value="false" />
   </component>
 </application>
