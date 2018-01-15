@@ -1,4 +1,14 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$ExclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="$InclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="CodotaSearchCrossRefAction">
     <keyboard-shortcut first-keystroke="shift alt f7" />
     <keyboard-shortcut first-keystroke="meta l" />
@@ -10,6 +20,15 @@
   </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor ExclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Editor InclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
