@@ -9,6 +9,7 @@
       <mapping ext="log " type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="banner" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
