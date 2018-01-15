@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="flat" />
+      <item value="authenticate" />
+      <item value="Envelope" />
       <item value="reside" />
       <item value="apache" />
       <item value="ipone" />
