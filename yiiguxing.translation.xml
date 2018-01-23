@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Program" />
+      <item value="Shipper" />
+      <item value="Bill" />
+      <item value="Newdriver Dao" />
+      <item value="Fkhuserbalancelog Dao" />
+      <item value="Fkhuserbalancelog" />
       <item value="applicant" />
       <item value="Dangling" />
       <item value="Envelope" />
