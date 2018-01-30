@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="version" />
+      <item value="logpath" />
       <item value="divider" />
       <item value="parse" />
       <item value="auditor" />
@@ -27,5 +29,10 @@
       <item value="apache" />
       <item value="ipone" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Andale Mono" />
+    <option name="primaryFontFamily" value="Andale Mono" />
   </component>
 </application>

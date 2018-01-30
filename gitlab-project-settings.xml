@@ -1,6 +1,6 @@
 <application>
   <component name="SettingsState">
-    <option name="host" value="" />
-    <option name="token" value="" />
+    <option name="host" value="http://192.168.2.18" />
+    <option name="token" value="jr-p8fEgpt3xKcv9cpns" />
   </component>
 </application>
