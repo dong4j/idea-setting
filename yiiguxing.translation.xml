@@ -3,6 +3,13 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Assertion" />
+      <item value="Component" />
+      <item value="Tooltip" />
+      <item value="Binary" />
+      <item value="Filled" />
+      <item value="Leaf" />
+      <item value="Ephemeral" />
       <item value="Persistence" />
       <item value="Unauthorized" />
       <item value="unauthorized" />
