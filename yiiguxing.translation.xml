@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Unauthorized" />
+      <item value="unauthorized" />
       <item value="operation" />
       <item value="Province" />
       <item value="reached" />
@@ -36,7 +38,7 @@
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Andale Mono" />
-    <option name="primaryFontFamily" value="Andale Mono" />
+    <option name="phoneticFontFamily" value="Monaco" />
+    <option name="primaryFontFamily" value="Monaco" />
   </component>
 </application>
