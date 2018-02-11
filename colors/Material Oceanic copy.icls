@@ -4,7 +4,7 @@
     <property name="created">2018-01-30T15:48:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-02-01T09:53:06</property>
+    <property name="modified">2018-02-11T16:15:23</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <font>
@@ -175,7 +175,7 @@
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+        <option name="ERROR_STRIPE_COLOR" value="bcd4" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -2595,7 +2595,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="885769" />
+        <option name="FOREGROUND" value="885869" />
         <option name="BACKGROUND" value="32424a" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="c07767" />
