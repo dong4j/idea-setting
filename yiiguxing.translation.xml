@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value=" Redeclaration: Header" />
+      <item value="Header" />
       <item value="Invoices" />
       <item value="freight" />
       <item value="Logistic" />
