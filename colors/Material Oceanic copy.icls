@@ -4,7 +4,7 @@
     <property name="created">2018-01-30T15:48:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-02-27T14:53:29</property>
+    <property name="modified">2018-02-28T14:25:50</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <font>
@@ -13958,6 +13958,7 @@
       <value>
         <option name="FOREGROUND" value="ffeb95" />
         <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="6a01d4" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
