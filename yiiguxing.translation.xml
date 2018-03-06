@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="correlation" />
       <item value="collate" />
       <item value="Fetching" />
       <item value="fetching" />
@@ -52,7 +53,6 @@
       <item value="Bill" />
       <item value="Newdriver Dao" />
       <item value="Fkhuserbalancelog Dao" />
-      <item value="Fkhuserbalancelog" />
     </histories>
   </component>
   <component name="Settings">
