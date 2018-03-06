@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="executing" />
       <item value="Invalid" />
       <item value="payment" />
       <item value="ERROR" />
@@ -52,7 +53,6 @@
       <item value="applicant" />
       <item value="Dangling" />
       <item value="Envelope" />
-      <item value="delay" />
     </histories>
   </component>
   <component name="Settings">
