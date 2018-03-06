@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="payment" />
       <item value="ERROR" />
       <item value="BUSINESSSTATECODE" />
       <item value="CARINFO" />
@@ -52,7 +53,6 @@
       <item value="Envelope" />
       <item value="delay" />
       <item value="Operand" />
-      <item value="flat" />
     </histories>
   </component>
   <component name="Settings">
