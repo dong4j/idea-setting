@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="collate" />
+      <item value="Fetching" />
+      <item value="fetching" />
       <item value="executing" />
       <item value="Invalid" />
       <item value="payment" />
@@ -50,9 +53,6 @@
       <item value="Newdriver Dao" />
       <item value="Fkhuserbalancelog Dao" />
       <item value="Fkhuserbalancelog" />
-      <item value="applicant" />
-      <item value="Dangling" />
-      <item value="Envelope" />
     </histories>
   </component>
   <component name="Settings">
