@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="qualifying" />
       <item value="trace" />
       <item value="appender" />
       <item value="correlation" />
@@ -52,7 +53,6 @@
       <item value="cargo Type" />
       <item value="Program" />
       <item value="Shipper" />
-      <item value="Bill" />
     </histories>
   </component>
   <component name="Settings">
