@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Reactor" />
       <item value="Annotation" />
       <item value="Binary" />
       <item value="arguments" />
@@ -52,7 +53,6 @@
       <item value="logpath" />
       <item value="divider" />
       <item value="parse" />
-      <item value="auditor" />
     </histories>
   </component>
   <component name="Settings">
