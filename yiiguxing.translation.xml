@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="candidate" />
       <item value="qualifying" />
       <item value="trace" />
       <item value="appender" />
@@ -52,7 +53,6 @@
       <item value="Type" />
       <item value="cargo Type" />
       <item value="Program" />
-      <item value="Shipper" />
     </histories>
   </component>
   <component name="Settings">
