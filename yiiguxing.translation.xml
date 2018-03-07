@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Annotation" />
+      <item value="Binary" />
+      <item value="arguments" />
+      <item value="Arguments" />
+      <item value="Attachments" />
       <item value="woven" />
       <item value="candidate" />
       <item value="qualifying" />
@@ -33,7 +38,6 @@
       <item value="Assertion" />
       <item value="Component" />
       <item value="Tooltip" />
-      <item value="Binary" />
       <item value="Filled" />
       <item value="Leaf" />
       <item value="Ephemeral" />
@@ -49,10 +53,6 @@
       <item value="divider" />
       <item value="parse" />
       <item value="auditor" />
-      <item value="cargo Id" />
-      <item value="cargo" />
-      <item value="Type" />
-      <item value="cargo Type" />
     </histories>
   </component>
   <component name="Settings">
