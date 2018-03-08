@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Retrieves" />
       <item value="declares" />
       <item value="LOAD" />
       <item value="CAPACITY" />
@@ -52,7 +53,6 @@
       <item value="Province" />
       <item value="reached" />
       <item value="elapsed" />
-      <item value="version" />
     </histories>
   </component>
   <component name="Settings">
