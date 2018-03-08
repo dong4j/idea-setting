@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="singleton" />
       <item value="State" />
       <item value="Illegal" />
       <item value="Thread" />
@@ -52,7 +53,6 @@
       <item value="Ephemeral" />
       <item value="Persistence" />
       <item value="Unauthorized" />
-      <item value="unauthorized" />
     </histories>
   </component>
   <component name="Settings">
