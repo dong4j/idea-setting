@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="当前" />
       <item value="Extension" />
       <item value="singleton" />
       <item value="State" />
@@ -52,7 +53,6 @@
       <item value="Filled" />
       <item value="Leaf" />
       <item value="Ephemeral" />
-      <item value="Persistence" />
     </histories>
   </component>
   <component name="Settings">
