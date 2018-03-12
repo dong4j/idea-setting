@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="递归" />
       <item value="Slash" />
       <item value="Index" />
       <item value="create" />
@@ -52,7 +53,6 @@
       <item value="Duplicate" />
       <item value="银行汇票" />
       <item value=" Redeclaration: Header" />
-      <item value="Header" />
     </histories>
   </component>
   <component name="Settings">
