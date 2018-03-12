@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Parents" />
       <item value="收集率" />
       <item value="收集" />
       <item value="采集率" />
@@ -52,7 +53,6 @@
       <item value="ERROR" />
       <item value="BUSINESSSTATECODE" />
       <item value="CARINFO" />
-      <item value="PERMISSION" />
     </histories>
   </component>
   <component name="Settings">
