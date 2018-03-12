@@ -3,6 +3,13 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="收集率" />
+      <item value="收集" />
+      <item value="采集率" />
+      <item value="rate" />
+      <item value="percent" />
+      <item value="百分" />
+      <item value="百分比" />
       <item value="递归" />
       <item value="Slash" />
       <item value="Index" />
@@ -46,13 +53,6 @@
       <item value="BUSINESSSTATECODE" />
       <item value="CARINFO" />
       <item value="PERMISSION" />
-      <item value="license Plate No" />
-      <item value="Plate" />
-      <item value="recharge" />
-      <item value="trade" />
-      <item value="Duplicate" />
-      <item value="银行汇票" />
-      <item value=" Redeclaration: Header" />
     </histories>
   </component>
   <component name="Settings">
