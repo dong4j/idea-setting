@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="自增" />
       <item value="make a choice" />
       <item value="选择" />
       <item value="Padding" />
@@ -52,7 +53,6 @@
       <item value="freight" />
       <item value="Logistic" />
       <item value="Assertion" />
-      <item value="Component" />
     </histories>
   </component>
   <component name="Settings">
