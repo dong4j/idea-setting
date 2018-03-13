@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="complete" />
+      <item value="完成" />
       <item value="percent" />
       <item value="percentage" />
       <item value="百分比" />
@@ -51,11 +53,14 @@
       <item value="executing" />
       <item value="Invalid" />
       <item value="payment" />
-      <item value="ERROR" />
-      <item value="BUSINESSSTATECODE" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
+      </google-translate>
+    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
