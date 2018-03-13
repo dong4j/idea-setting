@@ -3,14 +3,15 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="percent" />
+      <item value="percentage" />
+      <item value="百分比" />
+      <item value="rate" />
       <item value="Parents" />
       <item value="收集率" />
       <item value="收集" />
       <item value="采集率" />
-      <item value="rate" />
-      <item value="percent" />
       <item value="百分" />
-      <item value="百分比" />
       <item value="递归" />
       <item value="Slash" />
       <item value="Index" />
@@ -52,7 +53,6 @@
       <item value="payment" />
       <item value="ERROR" />
       <item value="BUSINESSSTATECODE" />
-      <item value="CARINFO" />
     </histories>
   </component>
   <component name="Settings">
