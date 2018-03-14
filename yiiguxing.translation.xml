@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastSourceLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="undeclared" />
       <item value="complete" />
       <item value="完成" />
       <item value="percent" />
@@ -52,7 +53,6 @@
       <item value="fetching" />
       <item value="executing" />
       <item value="Invalid" />
-      <item value="payment" />
     </histories>
   </component>
   <component name="Settings">
