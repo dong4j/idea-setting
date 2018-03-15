@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="programs" />
+      <item value="performance" />
+      <item value="improve" />
+      <item value="typically" />
+      <item value="previously" />
       <item value="CHILD" />
       <item value="INITIALIZED" />
       <item value="Invalid" />
@@ -48,11 +53,6 @@
       <item value="Retrieves" />
       <item value="declares" />
       <item value="LOAD" />
-      <item value="CAPACITY" />
-      <item value="Reactor" />
-      <item value="Annotation" />
-      <item value="Binary" />
-      <item value="arguments" />
     </histories>
   </component>
   <component name="Settings">
