@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Ephemeral" />
+      <item value="success" />
+      <item value="成功" />
+      <item value="symbol" />
+      <item value="标记" />
       <item value="States" />
       <item value="perform" />
       <item value="rearrange" />
@@ -48,11 +53,6 @@
       <item value="Arguments" />
       <item value="Attachments" />
       <item value="woven" />
-      <item value="candidate" />
-      <item value="qualifying" />
-      <item value="trace" />
-      <item value="appender" />
-      <item value="correlation" />
     </histories>
   </component>
   <component name="Settings">
