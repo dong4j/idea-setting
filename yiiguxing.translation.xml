@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Invalid" />
+      <item value="Parents" />
       <item value="Ephemeral" />
       <item value="success" />
       <item value="成功" />
@@ -20,7 +22,6 @@
       <item value="percentage" />
       <item value="百分比" />
       <item value="rate" />
-      <item value="Parents" />
       <item value="收集率" />
       <item value="收集" />
       <item value="采集率" />
@@ -52,7 +53,6 @@
       <item value="arguments" />
       <item value="Arguments" />
       <item value="Attachments" />
-      <item value="woven" />
     </histories>
   </component>
   <component name="Settings">
