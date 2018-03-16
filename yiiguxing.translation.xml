@@ -3,6 +3,13 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="scheme" />
+      <item value="authorization" />
+      <item value="Subsequent" />
+      <item value="Scheme" />
+      <item value="AC" />
+      <item value="provider" />
+      <item value="Provider" />
       <item value="Delivering" />
       <item value="programs" />
       <item value="performance" />
@@ -46,13 +53,6 @@
       <item value="生成" />
       <item value="当前" />
       <item value="Extension" />
-      <item value="singleton" />
-      <item value="State" />
-      <item value="Illegal" />
-      <item value="Thread" />
-      <item value="initializing" />
-      <item value="Retrieves" />
-      <item value="declares" />
     </histories>
   </component>
   <component name="Settings">
