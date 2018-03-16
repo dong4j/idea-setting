@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Delivering" />
       <item value="programs" />
       <item value="performance" />
       <item value="improve" />
@@ -52,7 +53,6 @@
       <item value="initializing" />
       <item value="Retrieves" />
       <item value="declares" />
-      <item value="LOAD" />
     </histories>
   </component>
   <component name="Settings">
