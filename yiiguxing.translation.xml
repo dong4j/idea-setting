@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="resolve" />
       <item value="reject" />
       <item value="compression" />
       <item value="CONTAINER" />
@@ -52,7 +53,6 @@
       <item value="create" />
       <item value="创建" />
       <item value="自增" />
-      <item value="make a choice" />
     </histories>
   </component>
   <component name="Settings">
