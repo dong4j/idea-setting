@@ -3,13 +3,17 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="compression" />
+      <item value="CONTAINER" />
+      <item value="behavior" />
+      <item value="Provider" />
+      <item value="Ensemble" />
       <item value="scheme" />
       <item value="authorization" />
       <item value="Subsequent" />
       <item value="Scheme" />
       <item value="AC" />
       <item value="provider" />
-      <item value="Provider" />
       <item value="Delivering" />
       <item value="programs" />
       <item value="performance" />
@@ -49,10 +53,6 @@
       <item value="自增" />
       <item value="make a choice" />
       <item value="选择" />
-      <item value="Padding" />
-      <item value="生成" />
-      <item value="当前" />
-      <item value="Extension" />
     </histories>
   </component>
   <component name="Settings">
