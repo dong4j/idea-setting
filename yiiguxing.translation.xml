@@ -3,8 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
-      <item value="resolve" />
       <item value="reject" />
+      <item value="resolve" />
       <item value="compression" />
       <item value="CONTAINER" />
       <item value="behavior" />
