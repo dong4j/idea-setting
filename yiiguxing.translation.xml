@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Blank" />
       <item value="nullable" />
       <item value="reject" />
       <item value="resolve" />
@@ -52,7 +53,6 @@
       <item value="Slash" />
       <item value="Index" />
       <item value="create" />
-      <item value="创建" />
     </histories>
   </component>
   <component name="Settings">
