@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="slot" />
       <item value="sidebar" />
       <item value="Blank" />
       <item value="nullable" />
@@ -52,7 +53,6 @@
       <item value="百分" />
       <item value="递归" />
       <item value="Slash" />
-      <item value="Index" />
     </histories>
   </component>
   <component name="Settings">
