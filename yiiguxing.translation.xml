@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="fetch" />
       <item value="duration" />
       <item value="specified" />
       <item value="SNAPSHOT" />
@@ -52,7 +53,6 @@
       <item value="rate" />
       <item value="收集率" />
       <item value="收集" />
-      <item value="采集率" />
     </histories>
   </component>
   <component name="Settings">
