@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="filtering" />
       <item value="deprecated" />
       <item value="resolve" />
       <item value="placeholder" />
@@ -52,7 +53,6 @@
       <item value="percent" />
       <item value="percentage" />
       <item value="百分比" />
-      <item value="rate" />
     </histories>
   </component>
   <component name="Settings">
