@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="resolve" />
+      <item value="placeholder" />
       <item value="fetch" />
       <item value="duration" />
       <item value="specified" />
@@ -12,7 +14,6 @@
       <item value="Blank" />
       <item value="nullable" />
       <item value="reject" />
-      <item value="resolve" />
       <item value="compression" />
       <item value="CONTAINER" />
       <item value="behavior" />
@@ -52,7 +53,6 @@
       <item value="百分比" />
       <item value="rate" />
       <item value="收集率" />
-      <item value="收集" />
     </histories>
   </component>
   <component name="Settings">
