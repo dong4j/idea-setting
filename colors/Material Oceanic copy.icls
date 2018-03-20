@@ -4,7 +4,7 @@
     <property name="created">2018-01-30T15:48:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-01T10:16:52</property>
+    <property name="modified">2018-03-20T20:06:14</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <font>
@@ -16,7 +16,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="9" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
