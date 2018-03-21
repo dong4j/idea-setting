@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="environment" />
+      <item value="环境" />
       <item value="下线" />
       <item value="primed" />
       <item value="INITIAL" />
@@ -51,8 +53,6 @@
       <item value="improve" />
       <item value="typically" />
       <item value="previously" />
-      <item value="CHILD" />
-      <item value="Invalid" />
     </histories>
   </component>
   <component name="Settings">
