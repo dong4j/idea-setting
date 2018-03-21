@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="是否存在" />
       <item value="compressed" />
       <item value="Is" />
       <item value="reweavable" />
@@ -52,7 +53,6 @@
       <item value="标记" />
       <item value="States" />
       <item value="perform" />
-      <item value="rearrange" />
     </histories>
   </component>
   <component name="Settings">
