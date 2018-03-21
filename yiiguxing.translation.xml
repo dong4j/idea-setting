@@ -3,6 +3,13 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="primed" />
+      <item value="INITIAL" />
+      <item value="INITIALIZED" />
+      <item value="POST" />
+      <item value="LOST" />
+      <item value="RECONNECTED" />
+      <item value="SUSPENDED" />
       <item value="contains" />
       <item value="是否存在" />
       <item value="compressed" />
@@ -44,15 +51,8 @@
       <item value="typically" />
       <item value="previously" />
       <item value="CHILD" />
-      <item value="INITIALIZED" />
       <item value="Invalid" />
       <item value="Parents" />
-      <item value="Ephemeral" />
-      <item value="success" />
-      <item value="成功" />
-      <item value="symbol" />
-      <item value="标记" />
-      <item value="States" />
     </histories>
   </component>
   <component name="Settings">
