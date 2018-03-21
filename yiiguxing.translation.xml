@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="compressed" />
+      <item value="Is" />
       <item value="reweavable" />
       <item value="woven" />
       <item value="already" />
@@ -51,8 +53,6 @@
       <item value="States" />
       <item value="perform" />
       <item value="rearrange" />
-      <item value="Request" />
-      <item value="Attempted" />
     </histories>
   </component>
   <component name="Settings">
