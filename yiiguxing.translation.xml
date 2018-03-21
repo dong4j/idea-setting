@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="reweavable" />
+      <item value="woven" />
+      <item value="already" />
       <item value="sequence" />
       <item value="Deprecated" />
       <item value="depends" />
@@ -50,9 +53,6 @@
       <item value="rearrange" />
       <item value="Request" />
       <item value="Attempted" />
-      <item value="undeclared" />
-      <item value="complete" />
-      <item value="完成" />
     </histories>
   </component>
   <component name="Settings">
