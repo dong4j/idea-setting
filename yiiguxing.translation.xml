@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE_TRADITIONAL" />
     <histories>
+      <item value="flag" />
       <item value="重新" />
       <item value="resh" />
       <item value="initial" />
@@ -52,7 +53,6 @@
       <item value="Subsequent" />
       <item value="Scheme" />
       <item value="AC" />
-      <item value="provider" />
     </histories>
   </component>
   <component name="Settings">
