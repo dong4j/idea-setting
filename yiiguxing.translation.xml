@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="initial" />
       <item value="backwards" />
       <item value="Refusing" />
       <item value="Non" />
@@ -52,7 +53,6 @@
       <item value="provider" />
       <item value="Delivering" />
       <item value="programs" />
-      <item value="performance" />
     </histories>
   </component>
   <component name="Settings">
