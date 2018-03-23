@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Non" />
       <item value="environment" />
       <item value="环境" />
       <item value="下线" />
@@ -52,7 +53,6 @@
       <item value="performance" />
       <item value="improve" />
       <item value="typically" />
-      <item value="previously" />
     </histories>
   </component>
   <component name="Settings">
