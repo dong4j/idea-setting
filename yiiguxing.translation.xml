@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="relative" />
+      <item value="Property" />
+      <item value="INITIALIZED" />
       <item value="Injector" />
       <item value="placeholder" />
       <item value="unresolvable" />
@@ -23,7 +26,6 @@
       <item value="下线" />
       <item value="primed" />
       <item value="INITIAL" />
-      <item value="INITIALIZED" />
       <item value="POST" />
       <item value="LOST" />
       <item value="RECONNECTED" />
@@ -51,8 +53,6 @@
       <item value="reject" />
       <item value="compression" />
       <item value="CONTAINER" />
-      <item value="behavior" />
-      <item value="Provider" />
     </histories>
   </component>
   <component name="Settings">
