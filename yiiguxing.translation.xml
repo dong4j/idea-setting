@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Injector" />
       <item value="placeholder" />
       <item value="unresolvable" />
       <item value="batch" />
@@ -52,7 +53,6 @@
       <item value="CONTAINER" />
       <item value="behavior" />
       <item value="Provider" />
-      <item value="Ensemble" />
     </histories>
   </component>
   <component name="Settings">
