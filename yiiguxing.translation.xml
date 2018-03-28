@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="youfu" />
+      <item value="acpsdk" />
+      <item value="sinosig" />
+      <item value="marketing" />
       <item value="relative" />
       <item value="Property" />
       <item value="INITIALIZED" />
@@ -49,10 +53,6 @@
       <item value="slot" />
       <item value="sidebar" />
       <item value="Blank" />
-      <item value="nullable" />
-      <item value="reject" />
-      <item value="compression" />
-      <item value="CONTAINER" />
     </histories>
   </component>
   <component name="Settings">
