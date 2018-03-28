@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="production" />
       <item value="youfu" />
       <item value="acpsdk" />
       <item value="sinosig" />
@@ -52,7 +53,6 @@
       <item value="SNAPSHOT" />
       <item value="slot" />
       <item value="sidebar" />
-      <item value="Blank" />
     </histories>
   </component>
   <component name="Settings">
