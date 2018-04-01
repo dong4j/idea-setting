@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="insurance" />
+      <item value="crash" />
+      <item value="意外" />
       <item value="connect" />
       <item value="connection" />
       <item value="multiplier" />
@@ -50,9 +53,6 @@
       <item value="depends" />
       <item value="filtering" />
       <item value="deprecated" />
-      <item value="resolve" />
-      <item value="fetch" />
-      <item value="duration" />
     </histories>
   </component>
   <component name="Settings">
