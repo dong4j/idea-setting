@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="connect" />
+      <item value="connection" />
+      <item value="multiplier" />
       <item value="production" />
       <item value="youfu" />
       <item value="acpsdk" />
@@ -50,9 +53,6 @@
       <item value="resolve" />
       <item value="fetch" />
       <item value="duration" />
-      <item value="SNAPSHOT" />
-      <item value="slot" />
-      <item value="sidebar" />
     </histories>
   </component>
   <component name="Settings">
