@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="flag" />
       <item value="switch" />
       <item value="insurance" />
       <item value="crash" />
@@ -26,7 +27,6 @@
       <item value="Type" />
       <item value="Parameterized" />
       <item value="cause" />
-      <item value="flag" />
       <item value="重新" />
       <item value="resh" />
       <item value="initial" />
