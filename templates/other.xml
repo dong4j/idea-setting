@@ -29,4 +29,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="prs" value="private String $END$" description="private String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
