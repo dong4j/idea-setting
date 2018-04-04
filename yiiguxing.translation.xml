@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="stat" />
       <item value="Resolving" />
       <item value="retrieve" />
       <item value="relative" />
@@ -52,7 +53,6 @@
       <item value="reweavable" />
       <item value="woven" />
       <item value="already" />
-      <item value="sequence" />
     </histories>
   </component>
   <component name="Settings">
