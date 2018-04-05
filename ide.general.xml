@@ -13,7 +13,6 @@
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="search.everywhere.actions" value="false" />
-    <entry key="vcs.annotations.preload" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
