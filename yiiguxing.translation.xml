@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Embedded" />
+      <item value="authenticating" />
       <item value="grid" />
       <item value="Replica" />
       <item value="Strategy" />
@@ -51,8 +53,6 @@
       <item value="环境" />
       <item value="下线" />
       <item value="primed" />
-      <item value="INITIAL" />
-      <item value="POST" />
     </histories>
   </component>
   <component name="Settings">
