@@ -14,5 +14,6 @@
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="search.everywhere.actions" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
   </component>
 </application>
