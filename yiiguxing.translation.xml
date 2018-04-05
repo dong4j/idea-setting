@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
       <item value="Embedded" />
+      <item value="embedded" />
+      <item value="Client" />
       <item value="authenticating" />
       <item value="grid" />
       <item value="Replica" />
@@ -51,8 +53,6 @@
       <item value="Non" />
       <item value="environment" />
       <item value="环境" />
-      <item value="下线" />
-      <item value="primed" />
     </histories>
   </component>
   <component name="Settings">
