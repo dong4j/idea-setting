@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="grid" />
       <item value="Replica" />
       <item value="Strategy" />
       <item value="required" />
@@ -52,7 +53,6 @@
       <item value="primed" />
       <item value="INITIAL" />
       <item value="POST" />
-      <item value="LOST" />
     </histories>
   </component>
   <component name="Settings">
