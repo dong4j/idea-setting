@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="defining" />
+      <item value="Consider" />
       <item value="Unsatisfied" />
       <item value="due" />
       <item value="cargos" />
@@ -51,8 +53,6 @@
       <item value="重新" />
       <item value="resh" />
       <item value="initial" />
-      <item value="backwards" />
-      <item value="Refusing" />
     </histories>
   </component>
   <component name="Settings">
