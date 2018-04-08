@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="State" />
       <item value="switch" />
       <item value="swtich" />
       <item value="separator" />
@@ -52,7 +53,6 @@
       <item value="sinosig" />
       <item value="marketing" />
       <item value="Property" />
-      <item value="INITIALIZED" />
     </histories>
   </component>
   <component name="Settings">
