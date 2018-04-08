@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="分隔符" />
       <item value="favor" />
       <item value="applied" />
       <item value="sensitive" />
@@ -52,7 +53,6 @@
       <item value="INITIALIZED" />
       <item value="Injector" />
       <item value="placeholder" />
-      <item value="batch" />
     </histories>
   </component>
   <component name="Settings">
