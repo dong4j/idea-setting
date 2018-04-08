@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="switch" />
+      <item value="swtich" />
       <item value="separator" />
       <item value="分隔符" />
       <item value="favor" />
@@ -38,7 +40,6 @@
       <item value="specify" />
       <item value="unresolvable" />
       <item value="flag" />
-      <item value="switch" />
       <item value="insurance" />
       <item value="crash" />
       <item value="意外" />
@@ -52,7 +53,6 @@
       <item value="marketing" />
       <item value="Property" />
       <item value="INITIALIZED" />
-      <item value="Injector" />
     </histories>
   </component>
   <component name="Settings">
