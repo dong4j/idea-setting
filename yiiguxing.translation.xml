@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="前缀" />
+      <item value="process" />
+      <item value="处理" />
       <item value="State" />
       <item value="switch" />
       <item value="swtich" />
@@ -50,9 +53,6 @@
       <item value="production" />
       <item value="youfu" />
       <item value="acpsdk" />
-      <item value="sinosig" />
-      <item value="marketing" />
-      <item value="Property" />
     </histories>
   </component>
   <component name="Settings">
