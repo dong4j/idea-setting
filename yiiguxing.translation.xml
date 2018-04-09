@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="一次性" />
       <item value="radix" />
       <item value="legal" />
       <item value="contains" />
@@ -52,7 +53,6 @@
       <item value="意外" />
       <item value="connect" />
       <item value="connection" />
-      <item value="multiplier" />
     </histories>
   </component>
   <component name="Settings">
