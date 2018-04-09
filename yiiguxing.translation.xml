@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="radix" />
       <item value="legal" />
       <item value="contains" />
       <item value="前缀" />
@@ -52,7 +53,6 @@
       <item value="connect" />
       <item value="connection" />
       <item value="multiplier" />
-      <item value="production" />
     </histories>
   </component>
   <component name="Settings">
