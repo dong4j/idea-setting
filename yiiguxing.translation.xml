@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Declared" />
       <item value="Parameterized" />
       <item value="received" />
       <item value="Invalid" />
@@ -52,7 +53,6 @@
       <item value="unresolvable" />
       <item value="flag" />
       <item value="insurance" />
-      <item value="crash" />
     </histories>
   </component>
   <component name="Settings">
