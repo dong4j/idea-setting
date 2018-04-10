@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="determine" />
+      <item value="execution" />
+      <item value="profile" />
       <item value="exclude" />
       <item value="Declared" />
       <item value="Parameterized" />
@@ -50,9 +53,6 @@
       <item value="Resolving" />
       <item value="retrieve" />
       <item value="relative" />
-      <item value="specify" />
-      <item value="unresolvable" />
-      <item value="flag" />
     </histories>
   </component>
   <component name="Settings">
