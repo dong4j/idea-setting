@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Datagram" />
       <item value="applied" />
       <item value="determine" />
       <item value="execution" />
@@ -52,7 +53,6 @@
       <item value="stat" />
       <item value="Resolving" />
       <item value="retrieve" />
-      <item value="relative" />
     </histories>
   </component>
   <component name="Settings">
