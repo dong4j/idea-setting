@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="established" />
       <item value="insurance" />
       <item value="Financial" />
       <item value="real" />
@@ -52,7 +53,6 @@
       <item value="expiration" />
       <item value="interval" />
       <item value="renewal" />
-      <item value="seconds" />
     </histories>
   </component>
   <component name="Settings">
