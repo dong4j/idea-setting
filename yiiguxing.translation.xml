@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Filename" />
+      <item value="Basepath" />
       <item value="established" />
       <item value="insurance" />
       <item value="Financial" />
@@ -51,8 +53,6 @@
       <item value="required" />
       <item value="Fetching" />
       <item value="expiration" />
-      <item value="interval" />
-      <item value="renewal" />
     </histories>
   </component>
   <component name="Settings">
