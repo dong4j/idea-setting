@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Financial" />
+      <item value="real" />
+      <item value="实际" />
       <item value="Datagram" />
       <item value="applied" />
       <item value="determine" />
@@ -50,9 +53,6 @@
       <item value="renewal" />
       <item value="seconds" />
       <item value="duration" />
-      <item value="stat" />
-      <item value="Resolving" />
-      <item value="retrieve" />
     </histories>
   </component>
   <component name="Settings">
