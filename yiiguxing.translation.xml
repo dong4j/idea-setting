@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="finished" />
       <item value="Filename" />
       <item value="Basepath" />
       <item value="established" />
@@ -52,7 +53,6 @@
       <item value="Strategy" />
       <item value="required" />
       <item value="Fetching" />
-      <item value="expiration" />
     </histories>
   </component>
   <component name="Settings">
