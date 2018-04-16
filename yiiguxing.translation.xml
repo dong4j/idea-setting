@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="LOGISTIC" />
       <item value="compatible" />
       <item value="basic" />
       <item value="Configuration" />
@@ -52,7 +53,6 @@
       <item value="embedded" />
       <item value="Client" />
       <item value="authenticating" />
-      <item value="grid" />
     </histories>
   </component>
   <component name="Settings">
