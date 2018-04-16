@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Means" />
       <item value="deduction" />
       <item value="license" />
       <item value="LOGISTIC" />
@@ -52,7 +53,6 @@
       <item value="due" />
       <item value="cargos" />
       <item value="Embedded" />
-      <item value="embedded" />
     </histories>
   </component>
   <component name="Settings">
