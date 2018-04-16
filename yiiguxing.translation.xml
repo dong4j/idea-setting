@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="deduction" />
+      <item value="license" />
       <item value="LOGISTIC" />
       <item value="compatible" />
       <item value="basic" />
@@ -51,8 +53,6 @@
       <item value="cargos" />
       <item value="Embedded" />
       <item value="embedded" />
-      <item value="Client" />
-      <item value="authenticating" />
     </histories>
   </component>
   <component name="Settings">
