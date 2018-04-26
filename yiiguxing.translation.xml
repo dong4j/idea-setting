@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="responsibility" />
+      <item value="passed" />
       <item value="established" />
       <item value="detach" />
       <item value="Vehicle" />
@@ -49,8 +51,6 @@
       <item value="EXCEPTION" />
       <item value="battcn" />
       <item value="Bearer" />
-      <item value="defining" />
-      <item value="Consider" />
     </histories>
   </component>
   <component name="Settings">
