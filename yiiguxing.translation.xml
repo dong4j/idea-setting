@@ -1,8 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Vehicle" />
       <item value="sequence" />
       <item value="merch" />
       <item value="Means" />
@@ -52,7 +51,6 @@
       <item value="defining" />
       <item value="Consider" />
       <item value="Unsatisfied" />
-      <item value="due" />
     </histories>
   </component>
   <component name="Settings">
