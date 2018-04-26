@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detach" />
       <item value="Vehicle" />
       <item value="sequence" />
       <item value="merch" />
@@ -50,7 +51,6 @@
       <item value="Bearer" />
       <item value="defining" />
       <item value="Consider" />
-      <item value="Unsatisfied" />
     </histories>
   </component>
   <component name="Settings">
