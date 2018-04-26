@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dropped" />
+      <item value="Warn" />
+      <item value="Frequency" />
       <item value="responsibility" />
       <item value="passed" />
       <item value="established" />
@@ -48,9 +51,6 @@
       <item value="favor" />
       <item value="sensitive" />
       <item value="UNAUTHORIZED" />
-      <item value="EXCEPTION" />
-      <item value="battcn" />
-      <item value="Bearer" />
     </histories>
   </component>
   <component name="Settings">
