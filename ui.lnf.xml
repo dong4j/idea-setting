@@ -20,5 +20,6 @@
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
