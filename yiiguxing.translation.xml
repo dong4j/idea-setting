@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="basic" />
       <item value="dropped" />
       <item value="Warn" />
       <item value="Frequency" />
@@ -16,7 +17,6 @@
       <item value="license" />
       <item value="LOGISTIC" />
       <item value="compatible" />
-      <item value="basic" />
       <item value="Configuration" />
       <item value="opertion" />
       <item value="finished" />
