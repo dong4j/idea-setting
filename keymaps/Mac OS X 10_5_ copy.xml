@@ -43,4 +43,7 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnProject">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
+  </action>
 </keymap>
