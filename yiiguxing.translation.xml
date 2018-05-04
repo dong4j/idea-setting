@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate" />
       <item value="Propagating" />
       <item value="cargo Type" />
       <item value="cargo" />
@@ -50,7 +51,6 @@
       <item value="switch" />
       <item value="swtich" />
       <item value="separator" />
-      <item value="分隔符" />
     </histories>
   </component>
   <component name="Settings">
