@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cargo Type" />
       <item value="cargo" />
       <item value="basic" />
       <item value="dropped" />
@@ -50,13 +51,11 @@
       <item value="separator" />
       <item value="分隔符" />
       <item value="favor" />
-      <item value="sensitive" />
     </histories>
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
-    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
