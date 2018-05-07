@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provided" />
+      <item value="fill" />
       <item value="rate" />
       <item value="Ambiguous" />
       <item value="Duplicate" />
@@ -49,8 +51,6 @@
       <item value="前缀" />
       <item value="process" />
       <item value="处理" />
-      <item value="State" />
-      <item value="switch" />
     </histories>
   </component>
   <component name="Settings">
