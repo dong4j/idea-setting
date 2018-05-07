@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rate" />
+      <item value="Ambiguous" />
       <item value="Duplicate" />
       <item value="Propagating" />
       <item value="cargo Type" />
@@ -49,8 +51,6 @@
       <item value="处理" />
       <item value="State" />
       <item value="switch" />
-      <item value="swtich" />
-      <item value="separator" />
     </histories>
   </component>
   <component name="Settings">
