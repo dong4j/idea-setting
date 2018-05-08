@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transitive" />
+      <item value="invalid" />
       <item value="provided" />
       <item value="fill" />
       <item value="rate" />
@@ -49,8 +51,6 @@
       <item value="legal" />
       <item value="contains" />
       <item value="前缀" />
-      <item value="process" />
-      <item value="处理" />
     </histories>
   </component>
   <component name="Settings">
