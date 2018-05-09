@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="effective" />
+      <item value="recommended" />
+      <item value="stability" />
+      <item value="threaten" />
       <item value="transitive" />
       <item value="invalid" />
       <item value="provided" />
@@ -47,10 +51,6 @@
       <item value="received" />
       <item value="Invalid" />
       <item value="一次性" />
-      <item value="radix" />
-      <item value="legal" />
-      <item value="contains" />
-      <item value="前缀" />
     </histories>
   </component>
   <component name="Settings">

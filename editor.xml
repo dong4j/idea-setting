@@ -5,7 +5,7 @@
         <entry key="JAVA" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
