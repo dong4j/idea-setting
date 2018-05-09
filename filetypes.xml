@@ -9,6 +9,7 @@
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="log " type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="epoch" type="PLAIN_TEXT" />
       <mapping ext="aaaa" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
