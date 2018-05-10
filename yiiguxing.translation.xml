@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="formula" />
       <item value="effective" />
       <item value="recommended" />
       <item value="stability" />
@@ -50,7 +51,6 @@
       <item value="Parameterized" />
       <item value="received" />
       <item value="Invalid" />
-      <item value="一次性" />
     </histories>
   </component>
   <component name="Settings">
