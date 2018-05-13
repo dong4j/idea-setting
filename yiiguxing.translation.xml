@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="waybill" />
+      <item value="Upload" />
+      <item value="Request" />
+      <item value="waybillupload" />
+      <item value="logink" />
       <item value="absolute" />
       <item value="formula" />
       <item value="effective" />
@@ -46,11 +51,6 @@
       <item value="applied" />
       <item value="determine" />
       <item value="execution" />
-      <item value="profile" />
-      <item value="exclude" />
-      <item value="Declared" />
-      <item value="Parameterized" />
-      <item value="received" />
     </histories>
   </component>
   <component name="Settings">

@@ -43,7 +43,15 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
+  <action id="Toolkit.GotoService">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt r" />
+  </action>
   <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnProject">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt m" />
   </action>
 </keymap>
