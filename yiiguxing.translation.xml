@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NUMBER ARRAY STRING" />
       <item value="waybill" />
       <item value="Upload" />
       <item value="Request" />
@@ -50,7 +51,6 @@
       <item value="Datagram" />
       <item value="applied" />
       <item value="determine" />
-      <item value="execution" />
     </histories>
   </component>
   <component name="Settings">
