@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equals" />
+      <item value="请确保" />
       <item value="query By Id" />
       <item value="query" />
       <item value="NUMBER ARRAY STRING" />
@@ -49,8 +51,6 @@
       <item value="insurance" />
       <item value="Financial" />
       <item value="real" />
-      <item value="实际" />
-      <item value="Datagram" />
     </histories>
   </component>
   <component name="Settings">
