@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="query By Id" />
+      <item value="query" />
       <item value="NUMBER ARRAY STRING" />
       <item value="waybill" />
       <item value="Upload" />
@@ -49,13 +51,23 @@
       <item value="real" />
       <item value="实际" />
       <item value="Datagram" />
-      <item value="applied" />
-      <item value="determine" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180516000160536" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
+    <option name="translator" value="fanyi.baidu" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
