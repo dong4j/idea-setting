@@ -12,7 +12,6 @@
       <mapping ext="epoch" type="PLAIN_TEXT" />
       <mapping ext="aaaa" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="banner" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
