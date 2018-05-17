@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incompatible" />
+      <item value="Specified" />
       <item value="equals" />
       <item value="请确保" />
       <item value="query By Id" />
@@ -49,8 +51,6 @@
       <item value="Filename" />
       <item value="Basepath" />
       <item value="insurance" />
-      <item value="Financial" />
-      <item value="real" />
     </histories>
   </component>
   <component name="Settings">
