@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected" />
       <item value="incompatible" />
       <item value="Specified" />
       <item value="equals" />
@@ -50,7 +51,6 @@
       <item value="finished" />
       <item value="Filename" />
       <item value="Basepath" />
-      <item value="insurance" />
     </histories>
   </component>
   <component name="Settings">
