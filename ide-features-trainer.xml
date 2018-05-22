@@ -6,7 +6,7 @@
     <option name="myMap">
       <map>
         <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
-        <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
+        <entry key="CodeAssistance.EditorCodingAssistance" value="PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
         <entry key="Completions.BasicCompletion" value="PASSED" />
@@ -45,8 +45,8 @@
         <entry key="CodeAssistance.EditorCodingAssistance">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1512719671225" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="14249048608" />
             </StatisticData>
           </value>
         </entry>
@@ -63,6 +63,30 @@
             <StatisticData>
               <option name="state" value="STARTED" />
               <option name="timestamp" value="1512719541106" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.DeleteLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1526968942151" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1526968943418" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1526968939739" />
             </StatisticData>
           </value>
         </entry>
