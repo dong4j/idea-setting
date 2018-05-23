@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get" />
+      <item value="Connection" />
+      <item value="Success" />
       <item value="Format" />
       <item value="custom" />
       <item value="expected" />
@@ -48,9 +51,6 @@
       <item value="license" />
       <item value="LOGISTIC" />
       <item value="compatible" />
-      <item value="Configuration" />
-      <item value="opertion" />
-      <item value="finished" />
     </histories>
   </component>
   <component name="Settings">
