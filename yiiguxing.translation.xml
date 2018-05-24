@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logon" />
       <item value="Get" />
       <item value="Connection" />
       <item value="Success" />
@@ -50,7 +51,6 @@
       <item value="deduction" />
       <item value="license" />
       <item value="LOGISTIC" />
-      <item value="compatible" />
     </histories>
   </component>
   <component name="Settings">
