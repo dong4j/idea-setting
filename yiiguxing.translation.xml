@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specified" />
+      <item value="Incompatible" />
+      <item value="initialization" />
+      <item value="occurred" />
       <item value="norepeat" />
       <item value="divide" />
       <item value="parse" />
@@ -47,10 +51,6 @@
       <item value="Warn" />
       <item value="Frequency" />
       <item value="responsibility" />
-      <item value="passed" />
-      <item value="established" />
-      <item value="detach" />
-      <item value="Vehicle" />
     </histories>
   </component>
   <component name="Settings">
