@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aborting" />
+      <item value="Invalid" />
       <item value="specified" />
       <item value="Incompatible" />
       <item value="initialization" />
@@ -49,8 +51,6 @@
       <item value="basic" />
       <item value="dropped" />
       <item value="Warn" />
-      <item value="Frequency" />
-      <item value="responsibility" />
     </histories>
   </component>
   <component name="Settings">
