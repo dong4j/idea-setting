@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse" />
+      <item value="norepeat" />
+      <item value="history" />
       <item value="batch" />
       <item value="divide" />
       <item value="policy" />
@@ -48,9 +51,6 @@
       <item value="established" />
       <item value="detach" />
       <item value="Vehicle" />
-      <item value="sequence" />
-      <item value="merch" />
-      <item value="Means" />
     </histories>
   </component>
   <component name="Settings">
