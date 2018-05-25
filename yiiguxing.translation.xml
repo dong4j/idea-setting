@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divide" />
       <item value="parse" />
       <item value="norepeat" />
       <item value="history" />
       <item value="batch" />
-      <item value="divide" />
       <item value="policy" />
       <item value="logon" />
       <item value="Get" />
