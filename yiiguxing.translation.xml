@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batch" />
+      <item value="divide" />
+      <item value="policy" />
       <item value="logon" />
       <item value="Get" />
       <item value="Connection" />
@@ -48,9 +51,6 @@
       <item value="sequence" />
       <item value="merch" />
       <item value="Means" />
-      <item value="deduction" />
-      <item value="license" />
-      <item value="LOGISTIC" />
     </histories>
   </component>
   <component name="Settings">
