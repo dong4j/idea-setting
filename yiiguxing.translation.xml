@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recent" />
       <item value="Pase" />
       <item value="flag" />
       <item value="invert" />
@@ -50,7 +51,6 @@
       <item value="provided" />
       <item value="fill" />
       <item value="rate" />
-      <item value="Ambiguous" />
     </histories>
   </component>
   <component name="Settings">
