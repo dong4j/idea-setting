@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pase" />
+      <item value="flag" />
+      <item value="invert" />
+      <item value="care" />
+      <item value="careuserlist" />
+      <item value="Regulation" />
       <item value="pretty" />
       <item value="policy" />
       <item value="Aborting" />
@@ -45,12 +51,6 @@
       <item value="fill" />
       <item value="rate" />
       <item value="Ambiguous" />
-      <item value="Duplicate" />
-      <item value="Propagating" />
-      <item value="cargo Type" />
-      <item value="cargo" />
-      <item value="basic" />
-      <item value="dropped" />
     </histories>
   </component>
   <component name="Settings">
