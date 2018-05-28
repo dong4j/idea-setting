@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="policy" />
       <item value="Aborting" />
       <item value="Invalid" />
       <item value="specified" />
@@ -12,7 +13,6 @@
       <item value="parse" />
       <item value="history" />
       <item value="batch" />
-      <item value="policy" />
       <item value="logon" />
       <item value="Get" />
       <item value="Connection" />
