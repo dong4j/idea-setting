@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="速度" />
       <item value="retain All" />
       <item value="recent" />
       <item value="Pase" />
@@ -50,7 +51,6 @@
       <item value="transitive" />
       <item value="invalid" />
       <item value="provided" />
-      <item value="fill" />
     </histories>
   </component>
   <component name="Settings">
