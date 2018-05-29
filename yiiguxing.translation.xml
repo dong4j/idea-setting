@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PREFIXTELNO" />
+      <item value="PROVINCE" />
       <item value="不包含" />
       <item value="contains" />
       <item value="expected" />
@@ -49,8 +51,6 @@
       <item value="formula" />
       <item value="effective" />
       <item value="recommended" />
-      <item value="stability" />
-      <item value="threaten" />
     </histories>
   </component>
   <component name="Settings">
