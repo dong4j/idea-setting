@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected" />
+      <item value="Insertions" />
       <item value="速度" />
       <item value="retain All" />
       <item value="recent" />
@@ -29,7 +31,6 @@
       <item value="Success" />
       <item value="Format" />
       <item value="custom" />
-      <item value="expected" />
       <item value="incompatible" />
       <item value="Specified" />
       <item value="equals" />
@@ -50,7 +51,6 @@
       <item value="threaten" />
       <item value="transitive" />
       <item value="invalid" />
-      <item value="provided" />
     </histories>
   </component>
   <component name="Settings">
