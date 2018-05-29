@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="successful" />
+      <item value="Result" />
       <item value="effect" />
       <item value="effect Tel List" />
       <item value="PREFIXTELNO" />
@@ -49,8 +51,6 @@
       <item value="Request" />
       <item value="waybillupload" />
       <item value="logink" />
-      <item value="absolute" />
-      <item value="formula" />
     </histories>
   </component>
   <component name="Settings">
