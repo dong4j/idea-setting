@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不包含" />
+      <item value="contains" />
       <item value="expected" />
       <item value="Insertions" />
       <item value="速度" />
@@ -49,8 +51,6 @@
       <item value="recommended" />
       <item value="stability" />
       <item value="threaten" />
-      <item value="transitive" />
-      <item value="invalid" />
     </histories>
   </component>
   <component name="Settings">
