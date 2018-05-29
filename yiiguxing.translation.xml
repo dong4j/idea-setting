@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="effect" />
+      <item value="effect Tel List" />
       <item value="PREFIXTELNO" />
       <item value="PROVINCE" />
       <item value="不包含" />
@@ -49,8 +51,6 @@
       <item value="logink" />
       <item value="absolute" />
       <item value="formula" />
-      <item value="effective" />
-      <item value="recommended" />
     </histories>
   </component>
   <component name="Settings">
