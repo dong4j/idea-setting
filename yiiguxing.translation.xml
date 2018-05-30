@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="norepeat" />
       <item value="successful" />
       <item value="Result" />
       <item value="effect" />
@@ -28,7 +29,6 @@
       <item value="Incompatible" />
       <item value="initialization" />
       <item value="occurred" />
-      <item value="norepeat" />
       <item value="divide" />
       <item value="parse" />
       <item value="history" />
