@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse" />
       <item value="norepeat" />
       <item value="successful" />
       <item value="Result" />
@@ -30,7 +31,6 @@
       <item value="initialization" />
       <item value="occurred" />
       <item value="divide" />
-      <item value="parse" />
       <item value="history" />
       <item value="batch" />
       <item value="logon" />
