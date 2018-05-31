@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Callee" />
       <item value="Deprecated" />
       <item value="parse" />
       <item value="norepeat" />
@@ -50,7 +51,6 @@
       <item value="waybill" />
       <item value="Upload" />
       <item value="Request" />
-      <item value="waybillupload" />
     </histories>
   </component>
   <component name="Settings">
