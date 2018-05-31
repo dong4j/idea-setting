@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="careuserlist" />
       <item value="Contain" />
       <item value="might" />
       <item value="Callee" />
@@ -24,7 +25,6 @@
       <item value="flag" />
       <item value="invert" />
       <item value="care" />
-      <item value="careuserlist" />
       <item value="Regulation" />
       <item value="pretty" />
       <item value="policy" />
