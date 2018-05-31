@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contain" />
+      <item value="might" />
       <item value="Callee" />
       <item value="Deprecated" />
       <item value="parse" />
@@ -49,8 +51,6 @@
       <item value="query" />
       <item value="NUMBER ARRAY STRING" />
       <item value="waybill" />
-      <item value="Upload" />
-      <item value="Request" />
     </histories>
   </component>
   <component name="Settings">
