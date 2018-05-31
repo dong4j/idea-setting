@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retain" />
       <item value="careuserlist" />
       <item value="Contain" />
       <item value="might" />
@@ -50,7 +51,6 @@
       <item value="query By Id" />
       <item value="query" />
       <item value="NUMBER ARRAY STRING" />
-      <item value="waybill" />
     </histories>
   </component>
   <component name="Settings">
