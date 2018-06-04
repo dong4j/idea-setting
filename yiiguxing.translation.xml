@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
+      <item value="fold" />
+      <item value="editor" />
+      <item value="interrupted" />
       <item value="retain" />
       <item value="careuserlist" />
       <item value="Contain" />
@@ -47,10 +51,6 @@
       <item value="incompatible" />
       <item value="Specified" />
       <item value="equals" />
-      <item value="请确保" />
-      <item value="query By Id" />
-      <item value="query" />
-      <item value="NUMBER ARRAY STRING" />
     </histories>
   </component>
   <component name="Settings">
