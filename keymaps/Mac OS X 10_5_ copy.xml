@@ -41,8 +41,14 @@
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="InclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt o" />
