@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interface" />
+      <item value="Uniform" />
       <item value="region" />
       <item value="fold" />
       <item value="editor" />
@@ -49,8 +51,6 @@
       <item value="Format" />
       <item value="custom" />
       <item value="incompatible" />
-      <item value="Specified" />
-      <item value="equals" />
     </histories>
   </component>
   <component name="Settings">
