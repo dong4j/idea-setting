@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mappings" />
+      <item value="lifecycle" />
+      <item value="conflict" />
+      <item value="moment" />
+      <item value="kept" />
+      <item value="unlikely" />
       <item value="Pipiline" />
       <item value="Fetch" />
       <item value="Interface" />
@@ -45,12 +51,6 @@
       <item value="occurred" />
       <item value="divide" />
       <item value="history" />
-      <item value="batch" />
-      <item value="logon" />
-      <item value="Get" />
-      <item value="Connection" />
-      <item value="Success" />
-      <item value="Format" />
     </histories>
   </component>
   <component name="Settings">
