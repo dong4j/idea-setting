@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pipiline" />
+      <item value="Fetch" />
       <item value="Interface" />
       <item value="Uniform" />
       <item value="region" />
@@ -49,8 +51,6 @@
       <item value="Connection" />
       <item value="Success" />
       <item value="Format" />
-      <item value="custom" />
-      <item value="incompatible" />
     </histories>
   </component>
   <component name="Settings">
