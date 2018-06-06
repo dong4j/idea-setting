@@ -62,9 +62,8 @@
   <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt g" />
   </action>
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor" />
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnProject">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt j" />
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt c" />
   </action>
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
     <keyboard-shortcut first-keystroke="shift alt u" />
