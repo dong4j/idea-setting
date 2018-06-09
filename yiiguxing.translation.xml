@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content" />
+      <item value="detect" />
       <item value="depth" />
       <item value="Resumable" />
       <item value="fetch" />
@@ -49,8 +51,6 @@
       <item value="Pase" />
       <item value="flag" />
       <item value="invert" />
-      <item value="care" />
-      <item value="Regulation" />
     </histories>
   </component>
   <component name="Settings">
