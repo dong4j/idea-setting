@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="depth" />
+      <item value="Resumable" />
+      <item value="fetch" />
+      <item value="pag" />
+      <item value="parse" />
+      <item value="if autoParse is true,BreadthCrawler will auto extract links which match regex rules from pag" />
+      <item value="if autoParse is true,BreadthCrawler will auto extract" />
+      <item value="crawlPath is the path of the directory which maintains information of this crawler" />
+      <item value="crawlPath is the path of the directory which maintains" />
+      <item value="extends BreadthCrawler " />
+      <item value="maintains" />
       <item value="mappings" />
       <item value="lifecycle" />
       <item value="conflict" />
@@ -21,7 +32,6 @@
       <item value="might" />
       <item value="Callee" />
       <item value="Deprecated" />
-      <item value="parse" />
       <item value="norepeat" />
       <item value="successful" />
       <item value="Result" />
@@ -41,16 +51,6 @@
       <item value="invert" />
       <item value="care" />
       <item value="Regulation" />
-      <item value="pretty" />
-      <item value="policy" />
-      <item value="Aborting" />
-      <item value="Invalid" />
-      <item value="specified" />
-      <item value="Incompatible" />
-      <item value="initialization" />
-      <item value="occurred" />
-      <item value="divide" />
-      <item value="history" />
     </histories>
   </component>
   <component name="Settings">
