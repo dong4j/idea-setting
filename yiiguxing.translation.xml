@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nestable" />
       <item value="inception" />
       <item value="scope" />
       <item value="content" />
@@ -50,7 +51,6 @@
       <item value="速度" />
       <item value="retain All" />
       <item value="recent" />
-      <item value="Pase" />
     </histories>
   </component>
   <component name="Settings">
