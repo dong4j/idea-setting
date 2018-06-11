@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scope" />
       <item value="content" />
       <item value="detect" />
       <item value="depth" />
@@ -50,7 +51,6 @@
       <item value="recent" />
       <item value="Pase" />
       <item value="flag" />
-      <item value="invert" />
     </histories>
   </component>
   <component name="Settings">
