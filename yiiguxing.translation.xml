@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sentinel" />
+      <item value="retry" />
       <item value="sentinels" />
       <item value="key" />
       <item value="downgrade" />
@@ -49,8 +51,6 @@
       <item value="PROVINCE" />
       <item value="不包含" />
       <item value="contains" />
-      <item value="expected" />
-      <item value="Insertions" />
     </histories>
   </component>
   <component name="Settings">
