@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coordinator" />
+      <item value="Lock" />
       <item value="Sentinel" />
       <item value="retry" />
       <item value="sentinels" />
@@ -49,8 +51,6 @@
       <item value="effect Tel List" />
       <item value="PREFIXTELNO" />
       <item value="PROVINCE" />
-      <item value="不包含" />
-      <item value="contains" />
     </histories>
   </component>
   <component name="Settings">
