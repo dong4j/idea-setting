@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="支持" />
+      <item value="不支持" />
+      <item value="当前" />
       <item value="REDIRECTIONS" />
       <item value="Coordinator" />
       <item value="Lock" />
@@ -48,9 +51,6 @@
       <item value="norepeat" />
       <item value="successful" />
       <item value="Result" />
-      <item value="effect" />
-      <item value="effect Tel List" />
-      <item value="PREFIXTELNO" />
     </histories>
   </component>
   <component name="Settings">
