@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REDIRECTIONS" />
       <item value="Coordinator" />
       <item value="Lock" />
       <item value="Sentinel" />
@@ -50,7 +51,6 @@
       <item value="effect" />
       <item value="effect Tel List" />
       <item value="PREFIXTELNO" />
-      <item value="PROVINCE" />
     </histories>
   </component>
   <component name="Settings">
