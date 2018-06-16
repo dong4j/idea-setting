@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retry" />
+      <item value="Sentinel" />
+      <item value="Attempts" />
       <item value="Binary" />
       <item value="Scheme" />
       <item value="支持" />
@@ -9,8 +12,6 @@
       <item value="REDIRECTIONS" />
       <item value="Coordinator" />
       <item value="Lock" />
-      <item value="Sentinel" />
-      <item value="retry" />
       <item value="sentinels" />
       <item value="key" />
       <item value="downgrade" />
@@ -50,7 +51,6 @@
       <item value="might" />
       <item value="Callee" />
       <item value="Deprecated" />
-      <item value="norepeat" />
     </histories>
   </component>
   <component name="Settings">
