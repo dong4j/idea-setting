@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="错误" />
       <item value="retry" />
       <item value="Sentinel" />
       <item value="Attempts" />
@@ -50,7 +51,6 @@
       <item value="Contain" />
       <item value="might" />
       <item value="Callee" />
-      <item value="Deprecated" />
     </histories>
   </component>
   <component name="Settings">
