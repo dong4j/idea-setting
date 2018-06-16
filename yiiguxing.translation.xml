@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multi" />
+      <item value="Key" />
       <item value="错误" />
       <item value="retry" />
       <item value="Sentinel" />
@@ -49,8 +51,6 @@
       <item value="retain" />
       <item value="careuserlist" />
       <item value="Contain" />
-      <item value="might" />
-      <item value="Callee" />
     </histories>
   </component>
   <component name="Settings">
