@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
       <item value="找不到" />
       <item value="Multi" />
       <item value="Key" />
@@ -50,7 +51,6 @@
       <item value="editor" />
       <item value="interrupted" />
       <item value="retain" />
-      <item value="careuserlist" />
     </histories>
   </component>
   <component name="Settings">
