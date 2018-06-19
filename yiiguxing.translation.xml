@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未实现" />
+      <item value="unimplementable" />
       <item value="do" />
       <item value="Advanced" />
       <item value="corresponding" />
@@ -49,8 +51,6 @@
       <item value="Interface" />
       <item value="Uniform" />
       <item value="region" />
-      <item value="fold" />
-      <item value="editor" />
     </histories>
   </component>
   <component name="Settings">
