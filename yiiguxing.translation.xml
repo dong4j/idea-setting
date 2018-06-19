@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do" />
       <item value="Advanced" />
       <item value="corresponding" />
       <item value="找不到" />
@@ -50,7 +51,6 @@
       <item value="region" />
       <item value="fold" />
       <item value="editor" />
-      <item value="interrupted" />
     </histories>
   </component>
   <component name="Settings">
