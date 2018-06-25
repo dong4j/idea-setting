@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credentials" />
+      <item value="Principal" />
+      <item value="Collection" />
+      <item value="principals" />
       <item value="未实现" />
       <item value="unimplementable" />
       <item value="do" />
@@ -47,10 +51,6 @@
       <item value="kept" />
       <item value="unlikely" />
       <item value="Pipiline" />
-      <item value="Fetch" />
-      <item value="Interface" />
-      <item value="Uniform" />
-      <item value="region" />
     </histories>
   </component>
   <component name="Settings">
