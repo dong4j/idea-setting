@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String" />
       <item value="credentials" />
       <item value="Principal" />
       <item value="Collection" />
@@ -50,7 +51,6 @@
       <item value="moment" />
       <item value="kept" />
       <item value="unlikely" />
-      <item value="Pipiline" />
     </histories>
   </component>
   <component name="Settings">
