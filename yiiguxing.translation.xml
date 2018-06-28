@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tenant" />
       <item value="CONTROL" />
       <item value="String" />
       <item value="credentials" />
@@ -50,7 +51,6 @@
       <item value="lifecycle" />
       <item value="conflict" />
       <item value="moment" />
-      <item value="kept" />
     </histories>
   </component>
   <component name="Settings">
