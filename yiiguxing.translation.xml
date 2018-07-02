@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mobile" />
       <item value="tenant" />
       <item value="CONTROL" />
       <item value="String" />
@@ -50,7 +51,6 @@
       <item value="mappings" />
       <item value="lifecycle" />
       <item value="conflict" />
-      <item value="moment" />
     </histories>
   </component>
   <component name="Settings">
