@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="timestamp" />
+      <item value="expire" />
+      <item value="pexpire" />
       <item value="Mobile" />
       <item value="tenant" />
       <item value="CONTROL" />
@@ -48,9 +51,6 @@
       <item value="crawlPath is the path of the directory which maintains" />
       <item value="extends BreadthCrawler " />
       <item value="maintains" />
-      <item value="mappings" />
-      <item value="lifecycle" />
-      <item value="conflict" />
     </histories>
   </component>
   <component name="Settings">
