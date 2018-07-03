@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Call" />
+      <item value="Delay" />
       <item value="timestamp" />
       <item value="expire" />
       <item value="pexpire" />
@@ -49,8 +51,6 @@
       <item value="if autoParse is true,BreadthCrawler will auto extract" />
       <item value="crawlPath is the path of the directory which maintains information of this crawler" />
       <item value="crawlPath is the path of the directory which maintains" />
-      <item value="extends BreadthCrawler " />
-      <item value="maintains" />
     </histories>
   </component>
   <component name="Settings">
