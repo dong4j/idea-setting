@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put" />
+      <item value="Absent" />
       <item value="deallocated" />
       <item value="reference" />
       <item value="deallocates" />
@@ -49,8 +51,6 @@
       <item value="inception" />
       <item value="scope" />
       <item value="content" />
-      <item value="detect" />
-      <item value="depth" />
     </histories>
   </component>
   <component name="Settings">
