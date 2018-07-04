@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="response" />
+      <item value="Variables" />
       <item value="Call" />
       <item value="Delay" />
       <item value="timestamp" />
@@ -49,8 +51,6 @@
       <item value="parse" />
       <item value="if autoParse is true,BreadthCrawler will auto extract links which match regex rules from pag" />
       <item value="if autoParse is true,BreadthCrawler will auto extract" />
-      <item value="crawlPath is the path of the directory which maintains information of this crawler" />
-      <item value="crawlPath is the path of the directory which maintains" />
     </histories>
   </component>
   <component name="Settings">
