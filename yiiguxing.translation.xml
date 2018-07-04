@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inbound" />
       <item value="response" />
       <item value="Variables" />
       <item value="Call" />
@@ -50,7 +51,6 @@
       <item value="pag" />
       <item value="parse" />
       <item value="if autoParse is true,BreadthCrawler will auto extract links which match regex rules from pag" />
-      <item value="if autoParse is true,BreadthCrawler will auto extract" />
     </histories>
   </component>
   <component name="Settings">
