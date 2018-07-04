@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deallocated" />
+      <item value="reference" />
+      <item value="deallocates" />
+      <item value="Decreases" />
+      <item value="assigned" />
       <item value="Inbound" />
       <item value="response" />
       <item value="Variables" />
@@ -46,11 +51,6 @@
       <item value="content" />
       <item value="detect" />
       <item value="depth" />
-      <item value="Resumable" />
-      <item value="fetch" />
-      <item value="pag" />
-      <item value="parse" />
-      <item value="if autoParse is true,BreadthCrawler will auto extract links which match regex rules from pag" />
     </histories>
   </component>
   <component name="Settings">
