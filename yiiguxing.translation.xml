@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overwrite" />
+      <item value="verbose" />
+      <item value="member" />
       <item value="instantiate" />
       <item value="Expand" />
       <item value="driver" />
@@ -48,9 +51,6 @@
       <item value="Binary" />
       <item value="Scheme" />
       <item value="支持" />
-      <item value="不支持" />
-      <item value="当前" />
-      <item value="REDIRECTIONS" />
     </histories>
   </component>
   <component name="Settings">
