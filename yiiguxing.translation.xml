@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conditional" />
+      <item value="flat" />
+      <item value="scheduler" />
       <item value="manual" />
       <item value="put" />
       <item value="Absent" />
@@ -48,9 +51,6 @@
       <item value="sentinels" />
       <item value="key" />
       <item value="downgrade" />
-      <item value="Nestable" />
-      <item value="inception" />
-      <item value="scope" />
     </histories>
   </component>
   <component name="Settings">
