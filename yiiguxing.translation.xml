@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conditional" />
+      <item value="Example" />
+      <item value="Entity" />
       <item value="overwrite" />
       <item value="verbose" />
       <item value="member" />
@@ -9,7 +12,6 @@
       <item value="driver" />
       <item value="Location" />
       <item value="Calculator" />
-      <item value="conditional" />
       <item value="flat" />
       <item value="scheduler" />
       <item value="manual" />
@@ -49,8 +51,6 @@
       <item value="Sentinel" />
       <item value="Attempts" />
       <item value="Binary" />
-      <item value="Scheme" />
-      <item value="支持" />
     </histories>
   </component>
   <component name="Settings">
