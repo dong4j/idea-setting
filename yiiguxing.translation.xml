@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instantiate" />
+      <item value="Expand" />
       <item value="driver" />
       <item value="Location" />
       <item value="Calculator" />
@@ -49,8 +51,6 @@
       <item value="不支持" />
       <item value="当前" />
       <item value="REDIRECTIONS" />
-      <item value="Coordinator" />
-      <item value="Lock" />
     </histories>
   </component>
   <component name="Settings">
