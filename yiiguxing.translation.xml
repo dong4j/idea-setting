@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="driver" />
+      <item value="Location" />
+      <item value="Calculator" />
       <item value="conditional" />
       <item value="flat" />
       <item value="scheduler" />
@@ -48,9 +51,6 @@
       <item value="REDIRECTIONS" />
       <item value="Coordinator" />
       <item value="Lock" />
-      <item value="sentinels" />
-      <item value="key" />
-      <item value="downgrade" />
     </histories>
   </component>
   <component name="Settings">
