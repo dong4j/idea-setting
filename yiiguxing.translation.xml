@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DECIMAL" />
       <item value="Introspecting" />
       <item value="catalog" />
       <item value="mbggenerated" />
@@ -50,7 +51,6 @@
       <item value="找不到" />
       <item value="Multi" />
       <item value="Key" />
-      <item value="错误" />
     </histories>
   </component>
   <component name="Settings">
