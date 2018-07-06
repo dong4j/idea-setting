@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mbggenerated" />
+      <item value="descriptor" />
+      <item value="Introspecting" />
       <item value="conditional" />
       <item value="Example" />
       <item value="Entity" />
@@ -48,9 +51,6 @@
       <item value="Key" />
       <item value="错误" />
       <item value="retry" />
-      <item value="Sentinel" />
-      <item value="Attempts" />
-      <item value="Binary" />
     </histories>
   </component>
   <component name="Settings">
