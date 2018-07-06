@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="monitor" />
+      <item value="Interval" />
       <item value="DECIMAL" />
       <item value="Introspecting" />
       <item value="catalog" />
@@ -49,8 +51,6 @@
       <item value="Advanced" />
       <item value="corresponding" />
       <item value="找不到" />
-      <item value="Multi" />
-      <item value="Key" />
     </histories>
   </component>
   <component name="Settings">
