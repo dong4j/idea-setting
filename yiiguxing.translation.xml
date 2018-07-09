@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="getinvitee" />
       <item value="Suspend" />
       <item value="disruptor" />
       <item value="monitor" />
@@ -50,7 +51,6 @@
       <item value="未实现" />
       <item value="unimplementable" />
       <item value="do" />
-      <item value="Advanced" />
     </histories>
   </component>
   <component name="Settings">
