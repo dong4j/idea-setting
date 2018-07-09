@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspend" />
       <item value="disruptor" />
       <item value="monitor" />
       <item value="Interval" />
@@ -50,7 +51,6 @@
       <item value="unimplementable" />
       <item value="do" />
       <item value="Advanced" />
-      <item value="corresponding" />
     </histories>
   </component>
   <component name="Settings">
