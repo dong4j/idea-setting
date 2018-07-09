@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gather" />
+      <item value="referer" />
       <item value="getinvitee" />
       <item value="Suspend" />
       <item value="disruptor" />
@@ -49,8 +51,6 @@
       <item value="Collection" />
       <item value="principals" />
       <item value="未实现" />
-      <item value="unimplementable" />
-      <item value="do" />
     </histories>
   </component>
   <component name="Settings">
