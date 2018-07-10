@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate" />
       <item value="Include" />
       <item value="delay" />
       <item value="execute" />
@@ -50,7 +51,6 @@
       <item value="CONTROL" />
       <item value="String" />
       <item value="credentials" />
-      <item value="Principal" />
     </histories>
   </component>
   <component name="Settings">
