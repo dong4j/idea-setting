@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delay" />
+      <item value="execute" />
       <item value="gather" />
       <item value="referer" />
       <item value="getinvitee" />
@@ -49,8 +51,6 @@
       <item value="credentials" />
       <item value="Principal" />
       <item value="Collection" />
-      <item value="principals" />
-      <item value="未实现" />
     </histories>
   </component>
   <component name="Settings">
