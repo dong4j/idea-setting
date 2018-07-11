@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Batch" />
       <item value="competition" />
       <item value="custom" />
       <item value="generate" />
@@ -50,7 +51,6 @@
       <item value="pexpire" />
       <item value="Mobile" />
       <item value="tenant" />
-      <item value="CONTROL" />
     </histories>
   </component>
   <component name="Settings">
