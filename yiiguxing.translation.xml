@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="QUEUED" />
       <item value="Corresponds" />
       <item value="Gather" />
       <item value="Sismember" />
@@ -50,7 +51,6 @@
       <item value="Call" />
       <item value="Delay" />
       <item value="timestamp" />
-      <item value="expire" />
     </histories>
   </component>
   <component name="Settings">
