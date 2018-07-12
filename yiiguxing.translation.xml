@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Corresponds" />
       <item value="Gather" />
       <item value="Sismember" />
       <item value="Batch" />
@@ -50,7 +51,6 @@
       <item value="Delay" />
       <item value="timestamp" />
       <item value="expire" />
-      <item value="pexpire" />
     </histories>
   </component>
   <component name="Settings">
