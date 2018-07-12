@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sismember" />
       <item value="Batch" />
       <item value="competition" />
       <item value="custom" />
@@ -50,7 +51,6 @@
       <item value="expire" />
       <item value="pexpire" />
       <item value="Mobile" />
-      <item value="tenant" />
     </histories>
   </component>
   <component name="Settings">
