@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.iml;*.ipr;*.iws;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.ideaDataSources;.project;.settings;.springBeans;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="flt" type="JSP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="trace-config" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
