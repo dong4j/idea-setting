@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="getinvitee" />
+      <item value="Anchor" />
       <item value="Sig" />
       <item value="Bits" />
       <item value="Inactive" />
-      <item value="Anchor" />
       <item value="To" />
       <item value="Appand" />
       <item value="Appandcallee" />
@@ -25,7 +26,6 @@
       <item value="execute" />
       <item value="gather" />
       <item value="referer" />
-      <item value="getinvitee" />
       <item value="Suspend" />
       <item value="disruptor" />
       <item value="monitor" />
