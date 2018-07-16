@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Anchor" />
+      <item value="Decode" />
       <item value="SUSPEND" />
       <item value="CAMEL CASE TO LOWER CASE WITH UNDERSCORES" />
       <item value="digitpush" />
@@ -49,8 +51,6 @@
       <item value="Decreases" />
       <item value="assigned" />
       <item value="Inbound" />
-      <item value="response" />
-      <item value="Variables" />
     </histories>
   </component>
   <component name="Settings">
