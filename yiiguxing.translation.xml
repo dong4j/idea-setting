@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Appand" />
+      <item value="Appandcallee" />
       <item value="Anchor" />
       <item value="Decode" />
       <item value="SUSPEND" />
@@ -49,8 +51,6 @@
       <item value="reference" />
       <item value="deallocates" />
       <item value="Decreases" />
-      <item value="assigned" />
-      <item value="Inbound" />
     </histories>
   </component>
   <component name="Settings">
