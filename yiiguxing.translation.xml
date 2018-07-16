@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sig" />
+      <item value="Bits" />
       <item value="Inactive" />
       <item value="Anchor" />
       <item value="To" />
@@ -49,8 +51,6 @@
       <item value="manual" />
       <item value="put" />
       <item value="Absent" />
-      <item value="deallocated" />
-      <item value="reference" />
     </histories>
   </component>
   <component name="Settings">
