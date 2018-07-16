@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUSPEND" />
+      <item value="CAMEL CASE TO LOWER CASE WITH UNDERSCORES" />
       <item value="digitpush" />
       <item value="QUEUED" />
       <item value="Corresponds" />
@@ -49,8 +51,6 @@
       <item value="Inbound" />
       <item value="response" />
       <item value="Variables" />
-      <item value="Call" />
-      <item value="Delay" />
     </histories>
   </component>
   <component name="Settings">
