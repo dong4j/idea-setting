@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Turn" />
+      <item value="Mine" />
+      <item value="Low" />
+      <item value="Bigness" />
       <item value="COMEIN" />
       <item value="Invite" />
       <item value="getinvitee" />
@@ -47,10 +51,6 @@
       <item value="Expand" />
       <item value="driver" />
       <item value="Location" />
-      <item value="Calculator" />
-      <item value="flat" />
-      <item value="scheduler" />
-      <item value="manual" />
     </histories>
   </component>
   <component name="Settings">
