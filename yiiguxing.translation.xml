@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COMEIN" />
+      <item value="Invite" />
       <item value="getinvitee" />
       <item value="Anchor" />
       <item value="Sig" />
@@ -49,8 +51,6 @@
       <item value="flat" />
       <item value="scheduler" />
       <item value="manual" />
-      <item value="put" />
-      <item value="Absent" />
     </histories>
   </component>
   <component name="Settings">
