@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nested" />
       <item value="Provider" />
       <item value="configuration" />
       <item value="Verify" />
@@ -50,7 +51,6 @@
       <item value="overwrite" />
       <item value="verbose" />
       <item value="member" />
-      <item value="instantiate" />
     </histories>
   </component>
   <component name="Settings">
