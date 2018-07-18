@@ -1,13 +1,20 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="MySQL" injector-id="xml">
-      <display-name>iBatis3: sql|select|insert|update|delete</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().oneOf("sql", "select", "insert", "update", "delete")).withNamespace(string().oneOf("http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd", "http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
-      <apply-to-subtags />
+    <injection language="Oracle" injector-id="xml">
+      <display-name>if</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("if")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="xml">
       <display-name>select</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>select</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>sql</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("sql")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
     </injection>
   </component>
 </application>
