@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="flt" type="JSP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern="component-websocket.md" type="PLAIN_TEXT" />
       <mapping pattern="trace-config" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
