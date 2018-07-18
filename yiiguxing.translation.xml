@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="configuration" />
       <item value="Verify" />
       <item value="Turn" />
       <item value="Mine" />
@@ -50,7 +51,6 @@
       <item value="member" />
       <item value="instantiate" />
       <item value="Expand" />
-      <item value="driver" />
     </histories>
   </component>
   <component name="Settings">
