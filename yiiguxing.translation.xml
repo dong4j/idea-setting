@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provider" />
       <item value="configuration" />
       <item value="Verify" />
       <item value="Turn" />
@@ -50,7 +51,6 @@
       <item value="verbose" />
       <item value="member" />
       <item value="instantiate" />
-      <item value="Expand" />
     </histories>
   </component>
   <component name="Settings">
