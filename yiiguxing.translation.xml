@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RANK" />
+      <item value="cost" />
+      <item value="DIGITS" />
       <item value="prompt" />
       <item value="Nested" />
       <item value="Provider" />
@@ -48,9 +51,6 @@
       <item value="descriptor" />
       <item value="conditional" />
       <item value="Example" />
-      <item value="Entity" />
-      <item value="overwrite" />
-      <item value="verbose" />
     </histories>
   </component>
   <component name="Settings">
