@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Borrow" />
       <item value="RANK" />
       <item value="cost" />
       <item value="DIGITS" />
@@ -50,7 +51,6 @@
       <item value="mbggenerated" />
       <item value="descriptor" />
       <item value="conditional" />
-      <item value="Example" />
     </histories>
   </component>
   <component name="Settings">
