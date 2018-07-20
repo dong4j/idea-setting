@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coupon" />
       <item value="Binary" />
       <item value="Borrow" />
       <item value="RANK" />
@@ -50,7 +51,6 @@
       <item value="Introspecting" />
       <item value="catalog" />
       <item value="mbggenerated" />
-      <item value="descriptor" />
     </histories>
   </component>
   <component name="Settings">
