@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Binary" />
       <item value="Borrow" />
       <item value="RANK" />
       <item value="cost" />
@@ -50,7 +51,6 @@
       <item value="catalog" />
       <item value="mbggenerated" />
       <item value="descriptor" />
-      <item value="conditional" />
     </histories>
   </component>
   <component name="Settings">
