@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Report" />
+      <item value="Part" />
+      <item value="Points" />
       <item value="Asterisk" />
       <item value="HUNGUP" />
       <item value="Buybeansmonitor" />
@@ -48,9 +51,6 @@
       <item value="custom" />
       <item value="generate" />
       <item value="Include" />
-      <item value="delay" />
-      <item value="execute" />
-      <item value="gather" />
     </histories>
   </component>
   <component name="Settings">
