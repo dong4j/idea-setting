@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Asterisk" />
+      <item value="HUNGUP" />
       <item value="Buybeansmonitor" />
       <item value="Opponent" />
       <item value="Hangupreminders" />
@@ -49,8 +51,6 @@
       <item value="delay" />
       <item value="execute" />
       <item value="gather" />
-      <item value="referer" />
-      <item value="Suspend" />
     </histories>
   </component>
   <component name="Settings">
