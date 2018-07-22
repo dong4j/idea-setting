@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ASTERISK" />
+      <item value="CONVERT" />
+      <item value="DELIMITER" />
+      <item value="Well" />
       <item value="opponent" />
       <item value="fee" />
       <item value="term" />
@@ -47,10 +51,6 @@
       <item value="digitpush" />
       <item value="QUEUED" />
       <item value="Corresponds" />
-      <item value="Gather" />
-      <item value="Sismember" />
-      <item value="Batch" />
-      <item value="competition" />
     </histories>
   </component>
   <component name="Settings">
