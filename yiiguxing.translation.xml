@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opponent" />
+      <item value="fee" />
+      <item value="term" />
       <item value="Banker" />
       <item value="Report" />
       <item value="Part" />
@@ -48,9 +51,6 @@
       <item value="Sismember" />
       <item value="Batch" />
       <item value="competition" />
-      <item value="custom" />
-      <item value="generate" />
-      <item value="Include" />
     </histories>
   </component>
   <component name="Settings">
