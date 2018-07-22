@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Banker" />
       <item value="Report" />
       <item value="Part" />
       <item value="Points" />
@@ -11,7 +12,6 @@
       <item value="Hangupreminders" />
       <item value="hungup" />
       <item value="Beeting" />
-      <item value="Banker" />
       <item value="Category" />
       <item value="Coupon" />
       <item value="Binary" />
