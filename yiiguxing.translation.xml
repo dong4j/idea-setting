@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Buybeansmonitor" />
+      <item value="Opponent" />
+      <item value="Hangupreminders" />
+      <item value="hungup" />
+      <item value="Beeting" />
+      <item value="Banker" />
       <item value="Category" />
       <item value="Coupon" />
       <item value="Binary" />
@@ -45,12 +51,6 @@
       <item value="gather" />
       <item value="referer" />
       <item value="Suspend" />
-      <item value="disruptor" />
-      <item value="monitor" />
-      <item value="Interval" />
-      <item value="DECIMAL" />
-      <item value="Introspecting" />
-      <item value="catalog" />
     </histories>
   </component>
   <component name="Settings">
