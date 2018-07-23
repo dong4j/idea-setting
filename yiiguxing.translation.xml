@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interval" />
       <item value="Fresh" />
       <item value="Rate" />
       <item value="Verify" />
@@ -50,7 +51,6 @@
       <item value="To" />
       <item value="Appand" />
       <item value="Appandcallee" />
-      <item value="Decode" />
     </histories>
   </component>
   <component name="Settings">
