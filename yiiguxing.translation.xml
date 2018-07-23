@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rate" />
+      <item value="Fresh" />
       <item value="Verify" />
       <item value="WORD" />
       <item value="CONVERSION" />
@@ -49,8 +51,6 @@
       <item value="Appand" />
       <item value="Appandcallee" />
       <item value="Decode" />
-      <item value="SUSPEND" />
-      <item value="CAMEL CASE TO LOWER CASE WITH UNDERSCORES" />
     </histories>
   </component>
   <component name="Settings">
