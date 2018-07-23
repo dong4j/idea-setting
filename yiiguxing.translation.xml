@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Interval" />
-      <item value="Fresh" />
+      <item value="INTERVAL" />
+      <item value="period" />
+      <item value="Delay" />
+      <item value="initial" />
       <item value="Rate" />
+      <item value="Fresh" />
+      <item value="Interval" />
       <item value="Verify" />
       <item value="WORD" />
       <item value="CONVERSION" />
@@ -47,10 +51,6 @@
       <item value="Anchor" />
       <item value="Sig" />
       <item value="Bits" />
-      <item value="Inactive" />
-      <item value="To" />
-      <item value="Appand" />
-      <item value="Appandcallee" />
     </histories>
   </component>
   <component name="Settings">
