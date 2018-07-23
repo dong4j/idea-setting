@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verify" />
       <item value="WORD" />
       <item value="CONVERSION" />
       <item value="EXCEPTION" />
@@ -33,7 +34,6 @@
       <item value="Nested" />
       <item value="Provider" />
       <item value="configuration" />
-      <item value="Verify" />
       <item value="Turn" />
       <item value="Mine" />
       <item value="Low" />
