@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WORD" />
+      <item value="CONVERSION" />
+      <item value="EXCEPTION" />
       <item value="ASTERISK" />
       <item value="CONVERT" />
       <item value="DELIMITER" />
@@ -48,9 +51,6 @@
       <item value="Decode" />
       <item value="SUSPEND" />
       <item value="CAMEL CASE TO LOWER CASE WITH UNDERSCORES" />
-      <item value="digitpush" />
-      <item value="QUEUED" />
-      <item value="Corresponds" />
     </histories>
   </component>
   <component name="Settings">
