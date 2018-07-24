@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="peer" />
       <item value="Prompt" />
       <item value="anchor" />
       <item value="transports" />
@@ -50,7 +51,6 @@
       <item value="Nested" />
       <item value="Provider" />
       <item value="configuration" />
-      <item value="Turn" />
     </histories>
   </component>
   <component name="Settings">
