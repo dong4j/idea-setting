@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rate" />
+      <item value="Fresh" />
+      <item value="msg" />
       <item value="Deprecated" />
       <item value="Beat" />
       <item value="Invalid" />
@@ -8,8 +11,6 @@
       <item value="period" />
       <item value="Delay" />
       <item value="initial" />
-      <item value="Rate" />
-      <item value="Fresh" />
       <item value="Interval" />
       <item value="Verify" />
       <item value="WORD" />
@@ -50,7 +51,6 @@
       <item value="Bigness" />
       <item value="COMEIN" />
       <item value="Invite" />
-      <item value="getinvitee" />
     </histories>
   </component>
   <component name="Settings">
