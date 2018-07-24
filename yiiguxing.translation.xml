@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inspection" />
       <item value="Pretty" />
       <item value="peer" />
       <item value="Prompt" />
@@ -50,7 +51,6 @@
       <item value="DIGITS" />
       <item value="prompt" />
       <item value="Nested" />
-      <item value="Provider" />
     </histories>
   </component>
   <component name="Settings">
