@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid" />
       <item value="INTERVAL" />
       <item value="period" />
       <item value="Delay" />
@@ -50,7 +51,6 @@
       <item value="getinvitee" />
       <item value="Anchor" />
       <item value="Sig" />
-      <item value="Bits" />
     </histories>
   </component>
   <component name="Settings">
