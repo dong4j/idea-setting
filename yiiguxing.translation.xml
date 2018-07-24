@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Beat" />
       <item value="Invalid" />
       <item value="INTERVAL" />
       <item value="period" />
@@ -50,7 +51,6 @@
       <item value="Invite" />
       <item value="getinvitee" />
       <item value="Anchor" />
-      <item value="Sig" />
     </histories>
   </component>
   <component name="Settings">
