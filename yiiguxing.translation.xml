@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="话筒" />
+      <item value="判断曾经是否由系统开启过话筒" />
       <item value="Inspection" />
       <item value="Pretty" />
       <item value="peer" />
@@ -49,8 +51,6 @@
       <item value="RANK" />
       <item value="cost" />
       <item value="DIGITS" />
-      <item value="prompt" />
-      <item value="Nested" />
     </histories>
   </component>
   <component name="Settings">
