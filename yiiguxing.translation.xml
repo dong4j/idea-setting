@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transports" />
+      <item value="protocol" />
+      <item value="draft" />
       <item value="Rate" />
       <item value="Fresh" />
       <item value="msg" />
@@ -48,9 +51,6 @@
       <item value="Turn" />
       <item value="Mine" />
       <item value="Low" />
-      <item value="Bigness" />
-      <item value="COMEIN" />
-      <item value="Invite" />
     </histories>
   </component>
   <component name="Settings">
