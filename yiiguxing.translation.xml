@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prompt" />
       <item value="anchor" />
       <item value="transports" />
       <item value="protocol" />
@@ -50,7 +51,6 @@
       <item value="Provider" />
       <item value="configuration" />
       <item value="Turn" />
-      <item value="Mine" />
     </histories>
   </component>
   <component name="Settings">
