@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="Beat" />
       <item value="Invalid" />
       <item value="INTERVAL" />
@@ -50,7 +51,6 @@
       <item value="COMEIN" />
       <item value="Invite" />
       <item value="getinvitee" />
-      <item value="Anchor" />
     </histories>
   </component>
   <component name="Settings">
