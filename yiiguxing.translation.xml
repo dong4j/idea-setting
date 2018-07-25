@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pair" />
+      <item value="Value" />
       <item value="话筒" />
       <item value="判断曾经是否由系统开启过话筒" />
       <item value="Inspection" />
@@ -49,8 +51,6 @@
       <item value="Binary" />
       <item value="Borrow" />
       <item value="RANK" />
-      <item value="cost" />
-      <item value="DIGITS" />
     </histories>
   </component>
   <component name="Settings">
