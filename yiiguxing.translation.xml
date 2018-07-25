@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Opponent" />
+      <item value="Prompt" />
       <item value="Pair" />
       <item value="Value" />
       <item value="话筒" />
@@ -8,7 +10,6 @@
       <item value="Inspection" />
       <item value="Pretty" />
       <item value="peer" />
-      <item value="Prompt" />
       <item value="anchor" />
       <item value="transports" />
       <item value="protocol" />
@@ -42,7 +43,6 @@
       <item value="Asterisk" />
       <item value="HUNGUP" />
       <item value="Buybeansmonitor" />
-      <item value="Opponent" />
       <item value="Hangupreminders" />
       <item value="hungup" />
       <item value="Beeting" />
